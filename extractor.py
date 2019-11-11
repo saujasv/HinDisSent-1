@@ -23,7 +23,7 @@ class Sentence:
 	def __init__(self, L):
 		self.words = list()
 		for i, l in enumerate(L):
-			w, g, r = l.strip('()').split(',')
+			w, g, r = l.strip('()').split('|')
 			w = w.strip('\' ')
 			g = g.strip('\' ')
 			r = r.strip('\' ')
@@ -85,6 +85,8 @@ class DependencyTree:
 		G2 = dict()
 		for v in G1:
 			u, r = G1[v]
+			if r == 'root':
+				G2[('.', 0)] = [(u, r)]
 			try:
 				G2[u].append((v, r))
 			except:
@@ -120,7 +122,8 @@ class Template:
 		self.S1_S2 = l[2] if len(l[2]) > 0 else None
 		self.S1_dm = l[3] if len(l[3]) > 0 else None
 		self.S2_S1 = l[4] if len(l[4]) > 0 else None
-		i = 5
+		self.dm_S2 = l[5] if len(l[5]) > 0 else None
+		i = 6
 		while i < len(l):
 			next_dm = l[i]
 			next_dm_parent = l[i + 1]
@@ -130,12 +133,13 @@ class Template:
 			i += 3
 	
 	def __repr__(self):
-		return '(dm = {:s}, S2->dm = {:s}, S1->S2 = {:s}, S1->dm = {:s}, S2->S1 = {:s})'.format(
+		return '(dm = {:s}, S2->dm = {:s}, S1->S2 = {:s}, S1->dm = {:s}, S2->S1 = {:s}, dm->S2 = {:s})'.format(
 			self.dm.word,
 			self.S2_dm if not self.S2_dm is None else 'None',
 			self.S1_S2 if not self.S1_S2 is None else 'None',
 			self.S1_dm if not self.S1_dm is None else 'None',
-			self.S2_S1 if not self.S2_S1 is None else 'None'
+			self.S2_S1 if not self.S2_S1 is None else 'None',
+			self.dm_S2 if not self.dm_S2 is None else 'None'
 		)
 	
 	def get_sentence_pair(self, tree):
@@ -149,13 +153,52 @@ class Template:
 					if not dm_node.parent.parent is None and dm_node.parent.parent_rel == self.S1_S2:
 						# print("Matched S1")
 						return dm_node.parent.parent.get_sentence(exclude=[(dm_node.parent.word, dm_node.parent.index)]), dm_node.parent.get_sentence(exclude=[(dm_node.word, dm_node.index)])
-		elif not self.S1_dm is None:
+		elif not self.S1_dm is None and not self.S2_S1 is None:
 			dm_node = tree.search_node(self.dm.word)
 			if self.dm.match(dm_node):
 				if not dm_node.parent is None and dm_node.parent_rel == self.S1_dm:
 					if not dm_node.parent.parent is None and dm_node.parent.parent_rel == self.S2_S1:
 						return dm_node.parent.parent.get_sentence(exclude=[(dm_node.parent.word, dm_node.parent.index)]), dm_node.parent.get_sentence(exclude=[(dm_node.word, dm_node.index)])
+		elif not self.S1_dm is None and not self.dm_S2 is None:
+			dm_node = tree.search_node(self.dm.word)
+			if self.dm.match(dm_node):
+				if not dm_node.parent is None and dm_node.parent_rel == self.S1_dm:
+					for v in dm_node.children:
+						if v.parent_rel == self.dm_S2:
+							return dm_node.parent.get_sentence(exclude=[(dm_node.word, dm_node.index)]), v.get_sentence()
+		elif not self.S1_dm is None and not self.S1_S2 is None:
+			dm_node = tree.search_node(self.dm.word)
+			if self.dm.match(dm_node):
+				if not dm_node.parent is None and dm_node.parent_rel == self.S1_dm:
+					for v in dm_node.parent.children:
+						if v.parent_rel == self.S1_S2:
+							return dm_node.parent.get_sentence(exclude=[(dm_node.word, dm_node.index)]), v.get_sentence()
 		else:
 			return '', ''
+
+sentence = Sentence("""जिन|2|det
+व्यक्तियों|6|nmod
+और|4|cc
+समुदायों|2|conj
+की|2|case
+आत्मछवि|7|nsubj
+पिछड़े|12|acl:relcl
+की|7|case
+नहीं|10|advmod
+थी|7|cop
+,|10|punct
+वे|17|nsubj
+भी|12|dep
+पिछड़ा|15|compound
+बनने|17|obl
+में|15|mark
+जुट|0|root
+गए|17|aux
+हैं|18|aux:pass""".split('\n'))
+spec = 'और,cc,conj,,'
+template = Template(spec)
+tree = DependencyTree.from_sentence(sentence)
+s1, s2 = template.get_sentence_pair(tree)
+print(s1, s2, sep='\n')
 
 
