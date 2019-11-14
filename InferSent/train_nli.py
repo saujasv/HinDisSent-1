@@ -24,6 +24,7 @@ from models import NLINet
 parser = argparse.ArgumentParser(description='NLI training')
 # paths
 parser.add_argument("--nlipath", type=str, default='dataset/SNLI/', help="NLI data path (SNLI or MultiNLI)")
+parser.add_argument("--discmark", type=str, default='', help="File with discourse markers")
 parser.add_argument("--outputdir", type=str, default='savedir/', help="Output directory")
 parser.add_argument("--outputmodelname", type=str, default='model.pickle')
 parser.add_argument("--word_emb_path", type=str, default="dataset/GloVe/glove.840B.300d.txt", help="word embedding file path")
@@ -47,6 +48,7 @@ parser.add_argument("--n_enc_layers", type=int, default=1, help="encoder num lay
 parser.add_argument("--fc_dim", type=int, default=512, help="nhid of fc layers")
 parser.add_argument("--n_classes", type=int, default=3, help="entailment/neutral/contradiction")
 parser.add_argument("--pool_type", type=str, default='max', help="max or mean")
+parser.add_argument("--tied_weights", action='store_true', help="RNN would share weights on both directions")
 
 # gpu
 parser.add_argument("--gpu_id", type=int, default=3, help="GPU ID")
@@ -75,7 +77,7 @@ torch.cuda.manual_seed(params.seed)
 """
 DATA
 """
-train, valid, test = get_nli(params.nlipath)
+train, valid, test = get_nli(params.nlipath, params.discmark)
 word_vec = build_vocab(train['s1'] + train['s2'] +
                        valid['s1'] + valid['s2'] +
                        test['s1'] + test['s2'], params.word_emb_path)

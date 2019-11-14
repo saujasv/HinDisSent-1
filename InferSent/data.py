@@ -56,12 +56,12 @@ def build_vocab(sentences, glove_path):
     return word_vec
 
 
-def get_nli(data_path):
+def get_nli(data_path, disc_markers):
     s1 = {}
     s2 = {}
     target = {}
 
-    dico_label = {line.rstrip(): i for i, line in enumerate(open(os.path.join(data_path, 'discourse_markers')))}
+    dico_label = {line.rstrip(): i for i, line in enumerate(open(os.path.join(data_path, disc_markers)))}
 
     for data_type in ['train', 'dev', 'test']:
         s1[data_type], s2[data_type], target[data_type] = {}, {}, {}
@@ -69,13 +69,16 @@ def get_nli(data_path):
         s2[data_type]['path'] = os.path.join(data_path, 's2.' + data_type)
         target[data_type]['path'] = os.path.join(data_path,
                                                  'labels.' + data_type)
+        markers = [line.rstrip() for line in open(disc_markers, 'r')]
+        
+        idx = [True if line in markers else False for i, line in enumerate(open(target[data_type]['path'], 'r'))]
 
-        s1[data_type]['sent'] = [line.rstrip() for line in
-                                 open(s1[data_type]['path'], 'r')]
-        s2[data_type]['sent'] = [line.rstrip() for line in
-                                 open(s2[data_type]['path'], 'r')]
+        s1[data_type]['sent'] = [line.rstrip() for i, line
+                                 in enumerate(open(s1[data_type]['path'], 'r')) if idx[i]]
+        s2[data_type]['sent'] = [line.rstrip() for i, line in
+                                 enumerate(open(s2[data_type]['path'], 'r'))  if idx[i]]
         target[data_type]['data'] = np.array([dico_label[line.rstrip('\n')]
-                for line in open(target[data_type]['path'], 'r')])
+                for i, line in enumerate(open(target[data_type]['path'], 'r')) if idx[i]])
 
         assert len(s1[data_type]['sent']) == len(s2[data_type]['sent']) == \
             len(target[data_type]['data'])

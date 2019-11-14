@@ -7,6 +7,8 @@
 
 """
 This file contains the definition of encoders used in https://arxiv.org/pdf/1705.02364.pdf
+
+Also contains modifications made in https://github.com/windweller/DisExtract/blob/25344ccc845477c8f89add3f36911035a9f2ef35/model/dissent.py
 """
 
 import numpy as np
@@ -29,9 +31,12 @@ class InferSent(nn.Module):
         self.pool_type = config['pool_type']
         self.dpout_model = config['dpout_model']
         self.version = 1 if 'version' not in config else config['version']
+        self.tied_weights = config['tied_weights']
+
+        bidirectional = True if not self.tied_weights else False
 
         self.enc_lstm = nn.LSTM(self.word_emb_dim, self.enc_lstm_dim, 1,
-                                bidirectional=True, dropout=self.dpout_model)
+                                bidirectional=bidirectional, dropout=self.dpout_model)
 
         assert self.version in [1, 2]
         if self.version == 1:
@@ -67,6 +72,14 @@ class InferSent(nn.Module):
         sent_packed = nn.utils.rnn.pack_padded_sequence(sent, sent_len_sorted)
         sent_output = self.enc_lstm(sent_packed)[0]  # seqlen x batch x 2*nhid
         sent_output = nn.utils.rnn.pad_packed_sequence(sent_output)[0]
+        if self.tied_weights:
+            # we also compute reverse
+            sent_rev = reverse_padded_sequence(sent, sent_len)
+            sent_rev_packed = nn.utils.rnn.pack_padded_sequence(sent_rev, sent_len)
+            rev_sent_output = self.enc_lstm(sent_rev_packed)[0]
+            rev_sent_output = nn.utils.rnn.pad_packed_sequence(rev_sent_output)[0]
+            back_sent_output = reverse_padded_sequence(rev_sent_output, sent_len)
+            sent_output = sent_output + back_sent_output
 
         # Un-sort by length
         idx_unsort = torch.from_numpy(idx_unsort).cuda() if self.is_cuda() \
@@ -771,7 +784,7 @@ class NLINet(nn.Module):
         u = self.encoder(s1)
         v = self.encoder(s2)
 
-        features = torch.cat((u, v, torch.abs(u-v), u*v), 1)
+        features = torch.cat((u, v, 0.5 * (u + v), torch.abs(u-v), u*v), 1)
         output = self.classifier(features)
         return output
 
