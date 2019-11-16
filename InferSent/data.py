@@ -71,7 +71,7 @@ def get_nli(data_path, disc_markers):
                                                  'labels.' + data_type)
         markers = [line.rstrip() for line in open(os.path.join(data_path,disc_markers), 'r')]
         
-        idx = [True if line in markers else False for i, line in enumerate(open(target[data_type]['path'], 'r'))]
+        idx = [True if line.rstrip() in markers else False for i, line in enumerate(open(target[data_type]['path'], 'r'))]
 
         s1[data_type]['sent'] = [line.rstrip() for i, line
                                  in enumerate(open(s1[data_type]['path'], 'r')) if idx[i]]
