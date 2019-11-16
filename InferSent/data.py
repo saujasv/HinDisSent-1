@@ -15,11 +15,17 @@ def get_batch(batch, word_vec, emb_dim=300):
     lengths = np.array([len(x) for x in batch])
     max_len = np.max(lengths)
     embed = np.zeros((max_len, len(batch), emb_dim))
-
+    word_vec['<s>'] = np.mean(np.stack(word_vec.values(), axis=0), axis=0)
+    word_vec['</s>'] = np.mean(np.stack(word_vec.values(), axis=0), axis=0)
+    
     for i in range(len(batch)):
         for j in range(len(batch[i])):
-            embed[j, i, :] = word_vec[batch[i][j]]
-
+            
+            try:
+                embed[j, i, :] = word_vec[batch[i][j]]
+            except Exception as e:
+                print("e",e)
+                pass
     return torch.from_numpy(embed).float(), lengths
 
 
