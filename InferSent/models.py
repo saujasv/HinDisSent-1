@@ -756,8 +756,8 @@ class NLINet(nn.Module):
         self.dpout_fc = config['dpout_fc']
 
         self.encoder = eval(self.encoder_type)(config)
-        self.inputdim = 4*2*self.enc_lstm_dim
-        self.inputdim = 4*self.inputdim if self.encoder_type in \
+        self.inputdim = 5*2*self.enc_lstm_dim
+        self.inputdim = 5*self.inputdim if self.encoder_type in \
                         ["ConvNetEncoder", "InnerAttentionMILAEncoder"] else self.inputdim
         self.inputdim = self.inputdim/2 if self.encoder_type == "LSTMEncoder" \
                                         else self.inputdim
