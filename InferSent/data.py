@@ -73,15 +73,30 @@ def get_nli(data_path, disc_markers):
         
         idx = [True if line.rstrip() in markers else False for i, line in enumerate(open(target[data_type]['path'], 'r'))]
 
-        s1[data_type]['sent'] = [line.rstrip() for i, line
-                                 in enumerate(open(s1[data_type]['path'], 'r')) if idx[i]]
-        s2[data_type]['sent'] = [line.rstrip() for i, line in
+        
+        
+        s1_list = [line.rstrip() for i, line
+                in enumerate(open(s1[data_type]['path'], 'r')) if idx[i]]
+        
+        s2_list = [line.rstrip() for i, line in
                                  enumerate(open(s2[data_type]['path'], 'r'))  if idx[i]]
-        target[data_type]['data'] = np.array([dico_label[line.rstrip('\n')]
+        
+        target_list = np.array([dico_label[line.rstrip('\n')]
                 for i, line in enumerate(open(target[data_type]['path'], 'r')) if idx[i]])
 
-        assert len(s1[data_type]['sent']) == len(s2[data_type]['sent']) == \
-            len(target[data_type]['data'])
+        assert len(s1_list) == len(s2_list) == \
+            len(target_list)
+        
+        s1[data_type]['sent'] = list()
+        s2[data_type]['sent'] = list()
+        target[data_type]['data'] = list()
+
+        MIN_LEN = 3
+        for i in range(len(s1_list)):
+            if len(s1_list[i].split()) > MIN_LEN and len(s2_list[i].split()) > MIN_LEN:
+                s1[data_type]['sent'].append(s1_list[i])
+                s2[data_type]['sent'].append(s2_list[i])
+                target[data_type]['data'].append(target_list[i])
 
         print('** {0} DATA : Found {1} pairs of {2} sentences.'.format(
                 data_type.upper(), len(s1[data_type]['sent']), data_type))
