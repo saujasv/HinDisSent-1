@@ -108,6 +108,7 @@ config_nli_model = {
     'nonlinear_fc'   :  params.nonlinear_fc   ,
     'encoder_type'   :  params.encoder_type   ,
     'use_cuda'       :  True                  ,
+    'tied_weights'  : params.tied_weights
 
 }
 
