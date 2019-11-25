@@ -1,0 +1,22 @@
+EntRel||||||||||||||118..264||||||265..322||||||
+EntRel||||||||||||||118..322||||||324..403||||||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||324..402|Inh|Null|Null|Null||404..587|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waba|Temporal.Synchrony||||||404..587|Inh|Null|Null|Null||589..673|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||589..674|Inh|Null|Null|Null||675..765|Inh|Null|Null|Null||
+EntRel||||||||||||||589..765||||||767..887||||||
+Explicit|888..891|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||589..765|Inh|Null|Null|Null||892..986|Inh|Null|Null|Null||
+Explicit|903..905;960..962|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||892..902;906..959|Inh|Null|Null|Null||963..986|Inh|Null|Null|Null||
+Explicit|919..921|Wr|Comm|Null|Null|||Expansion.Conjunction||||||892..902;906..918|Inh|Null|Null|Null||922..959|Inh|Null|Null|Null||
+EntRel||||||||||||||963..986||||||988..1070||||||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||988..1071|Inh|Null|Null|Null||1072..1195|Inh|Null|Null|Null||
+Explicit|1110..1112|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1072..1109|Inh|Null|Null|Null||1113..1194|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||1072..1194|Inh|Null|Null|Null||1196..1237|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||1196..1237|Inh|Null|Null|Null||1239..1296|Inh|Null|Null|Null||
+Explicit|1298..1303|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||1239..1296|Inh|Null|Null|Null||1304..1345|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||1239..1345|Inh|Null|Null|Null||1346..1366|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1346..1367|Inh|Null|Null|Null||1368..1472|Inh|Null|Null|Null||
+Explicit|1426..1428|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1368..1425|Inh|Null|Null|Null||1429..1472|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1368..1472|Inh|Null|Null|Null||1474..1573|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waba|Temporal.Asynchronous.Succession||||||1474..1572|Inh|Null|Null|Null||1572..1632|Inh|Null|Null|Null||
+Explicit|1599..1601|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1574..1598|Inh|Null|Null|Null||1602..1632|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||1574..1632|Inh|Null|Null|Null||1634..1727|Inh|Null|Null|Null||

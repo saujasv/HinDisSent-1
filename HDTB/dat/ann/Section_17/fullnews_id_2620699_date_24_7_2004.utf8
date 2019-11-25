@@ -1,0 +1,31 @@
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Concession.Contra-expectation||||||195..327|Inh|Null|Null|Null||329..396|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||balki|Comparison.Contrast.Opposition||||||329..395|Inh|Null|Null|Null||397..467|Inh|Null|Null|Null||
+AltLex|469..475|Wr|Comm|Null|Null|||||||||397..468|Inh|Null|Null|Null||477..600|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||477..601|Inh|Null|Null|Null||602..701|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||602..701|Inh|Null|Null|Null||702..776|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||477..601|Inh|Null|Null|Null||778..877|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic contrast||||||778..877|Inh|Null|Null|Null||877..991|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||877..990|Inh|Null|Null|Null||990..1096|Inh|Null|Null|Null||
+Explicit|1052..1054|Wr|Comm|Null|Null|||Expansion.Conjunction||||||992..1051|Inh|Null|Null|Null||1055..1095|Inh|Null|Null|Null||
+AltLex|1097..1107|Wr|Comm|Null|Null|||Expansion.Conjunction||||||992..1096|Inh|Null|Null|Null||1108..1171|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||1097..1172|Inh|Null|Null|Null||1173..1296|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic contrast||||||1173..1297|Inh|Null|Null|Null||1298..1343|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||1298..1343|Inh|Null|Null|Null||1344..1415|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Pragmatic contrast||||||1376..1416|Inh|Null|Null|Null||1417..1524|Inh|Null|Null|Null||
+Explicit|1463..1465|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1417..1462|Inh|Null|Null|Null||1466..1523|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Contingency.Cause.Reason||||||1173..1296|Inh|Null|Null|Null||1525..1644|Inh|Null|Null|Null||
+Explicit|1587..1589|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1525..1586|Inh|Null|Null|Null||1590..1645|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jisa vajaha se|Contingency.Cause.Result||||||1525..1645|Inh|Null|Null|Null||1646..1759|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Pragmatic contrast||||||1646..1758|Inh|Null|Null|Null||1760..1846|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1760..1798|Inh|Null|Null|Null||1799..1845|Inh|Null|Null|Null||
+Explicit|1819..1821|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1799..1818|Inh|Null|Null|Null||1822..1845|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||1799..1846|Inh|Null|Null|Null||1847..1946|Inh|Null|Null|Null||
+Explicit|1885..1890;1906..1913|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1865..1884;1891..1901;1902..1905|Inh|Null|Null|Null||1914..1945|Inh|Null|Null|Null||
+Explicit|1947..1953|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1865..1945|Inh|Null|Null|Null||1955..2020|Inh|Null|Null|Null||
+Explicit|1981..1983|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1955..1980|Inh|Null|Null|Null||1984..2021|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Temporal.Asynchronous.Succession||||||1845..1945|Inh|Null|Null|Null||2022..2110|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||2022..2109|Inh|Null|Null|Null||2111..2180|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||wo|Contingency.Cause.Result||||||2111..2180|Inh|Null|Null|Null||2182..2294|Inh|Null|Null|Null||
+Explicit|2252..2259|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||2205..2251|Inh|Null|Null|Null||2260..2295|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||2182..2295|Inh|Null|Null|Null||2296..2388|Inh|Null|Null|Null||
+Explicit|2321..2323|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2296..2320|Inh|Null|Null|Null||2324..2388|Inh|Null|Null|Null||

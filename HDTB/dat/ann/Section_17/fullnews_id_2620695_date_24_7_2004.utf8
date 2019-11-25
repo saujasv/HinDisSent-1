@@ -1,0 +1,6 @@
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Equivalence||||||138..351|Inh|Null|Null|Null||352..505|Inh|Null|Null|Null||
+EntRel||||||||||||||352..505||||||506..609||||||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||352..505|Inh|Null|Null|Null||610..742|Inh|Null|Null|Null||
+Explicit|744..756|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||610..743|Inh|Null|Null|Null||757..867|Inh|Null|Null|Null||
+Explicit|868..878|Wr|Comm|Null|Null|||Expansion.Conjunction||||||610..743|Inh|Null|Null|Null||879..973|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||868..973|Inh|Null|Null|Null||975..1040|Inh|Null|Null|Null||

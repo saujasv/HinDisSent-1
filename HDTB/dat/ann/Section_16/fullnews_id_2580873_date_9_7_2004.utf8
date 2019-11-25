@@ -1,0 +1,12 @@
+Implicit||Wr|Comm|Null|Null||isa waraha se|Expansion.Instantiation||||||129..234|Inh|Null|Null|Null||236..285|Inh|Null|Null|Null||
+EntRel||||||||||||||236..285||||||287..324||||||
+Explicit|326..329|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||236..285|Inh|Null|Null|Null||331..404|Inh|Null|Null|Null||
+EntRel||||||||||||||331..404||||||406..453||||||
+Implicit||Wr|Comm|Null|Null||jabaki|Comparison.Contrast.Juxtaposition||||||406..453|Inh|Null|Null|Null||455..684|Inh|Null|Null|Null||
+EntRel||||||||||||||455..499||||||501..554||||||
+EntRel||||||||||||||501..554||||||555..684||||||
+EntRel||||||||||||||555..684||||||686..739||||||
+Explicit|741..749|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||455..739|Inh|Null|Null|Null||750..852|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||750..852|Inh|Null|Null|Null||854..970|Inh|Null|Null|Null||
+Explicit|972..989|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||854..970|Inh|Null|Null|Null||990..1055|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Pira|Temporal.Asynchronous.Succession||||||990..1055|Inh|Null|Null|Null||1057..1171|Inh|Null|Null|Null||

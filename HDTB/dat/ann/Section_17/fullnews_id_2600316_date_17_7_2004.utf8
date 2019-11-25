@@ -1,0 +1,10 @@
+Explicit|202..208|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||209..234|Inh|Null|Null|Null||134..201|Inh|Null|Null|Null||
+Explicit|235..246|Wr|Comm|Null|Null|||Expansion.Conjunction|Temporal.Synchrony|||||134..233|Inh|Null|Null|Null||247..346|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||134..233|Inh|Null|Null|Null||347..632|Inh|Null|Null|Null||
+Explicit|583..585|Wr|Comm|Null|Null|||Expansion.Conjunction||||||458..582|Inh|Null|Null|Null||586..633|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||458..582|Inh|Null|Null|Null||650..738|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jabaki|Comparison.Contrast.Opposition||||||650..738|Inh|Null|Null|Null||756..917|Inh|Null|Null|Null||
+Explicit|808..815|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||816..865|Inh|Null|Null|Null||756..807|Inh|Null|Null|Null||
+Explicit|866..868|Wr|Comm|Null|Null|||Expansion.Conjunction||||||756..865|Inh|Null|Null|Null||869..917|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Conjunction||||||740..917|Inh|Null|Null|Null||918..1043|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||935..1043|Inh|Null|Null|Null||1061..1192|Inh|Null|Null|Null||

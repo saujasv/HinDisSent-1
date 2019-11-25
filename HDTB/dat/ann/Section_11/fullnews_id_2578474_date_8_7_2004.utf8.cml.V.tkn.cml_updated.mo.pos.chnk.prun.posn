@@ -1,0 +1,18 @@
+Explicit|180..183|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||113..179|Inh|Null|Null|Null||184..256|Inh|Null|Null|Null||
+Explicit|257..269|Wr|Comm|Null|Null|||Expansion.Conjunction||||||113..254|Inh|Null|Null|Null||280..389|Inh|Null|Null|Null||
+Explicit|458..468|Wr|Comm|Null|Null|||Expansion.Conjunction||||||392..457|Inh|Null|Null|Null||469..582|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा |Temporal.Asynchronous.Succession||||||583..728|Inh|Null|Null|Null||729..919|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही |Expansion.Conjunction||||||729..917|Inh|Null|Null|Null||920..1022|Inh|Null|Null|Null||
+Explicit|1003..1005|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||920..1002|Inh|Null|Null|Null||1006..1024|Inh|Null|Null|Null||
+Explicit|1025..1036|Wr|Comm|Null|Null|||Contingency.Condition.Hypothetical||||||1037..1053|Inh|Null|Null|Null||767..1022|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा |Expansion.Conjunction||||||583..1055|Inh|Null|Null|Null||1056..1213|Inh|Null|Null|Null||
+Explicit|1169..1171|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1056..1168|Inh|Null|Null|Null||1172..1213|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही |Expansion.Conjunction||||||1056..1213|Inh|Null|Null|Null||1214..1264|Inh|Null|Null|Null||
+Explicit|1265..1275|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1056..1262|Inh|Null|Null|Null||1276..1449|Inh|Null|Null|Null||
+Explicit|1450..1460|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1265..1449|Inh|Null|Null|Null||1461..1529|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा|Expansion.Conjunction||||||1265..1529|Inh|Null|Null|Null||1530..1756|Inh|Null|Null|Null||
+Explicit|1672..1674|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1558..1671|Inh|Null|Null|Null||1675..1756|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा|Expansion.Conjunction||||||1530..1756|Inh|Null|Null|Null||1757..1879|Inh|Null|Null|Null||
+Explicit|1807..1809|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1757..1806|Inh|Null|Null|Null||1810..1879|Inh|Null|Null|Null||
+Explicit|1880..1890|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1757..1879|Inh|Null|Null|Null||1891..1954|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस कारन |Contingency.Cause.Result||||||1891..1954|Inh|Null|Null|Null||1955..2043|Inh|Null|Null|Null||

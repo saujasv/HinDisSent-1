@@ -1,0 +1,16 @@
+Explicit|176..181|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||124..174|Inh|Null|Null|Null||182..250|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||252..356|Inh|Null|Null|Null||357..554|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||357..554|Inh|Null|Null|Null||556..696|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||556..599|Inh|Null|Null|Null||601..696|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||paraMwu|Comparison.Concession.Contra-expectation||||||556..696|Inh|Null|Null|Null||698..795|Inh|Null|Null|Null||
+Explicit|749..751|Wr|Comm|Null|Null|||Expansion.Conjunction||||||698..748|Inh|Null|Null|Null||752..798|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Instantiation||||||752..798|Inh|Null|Null|Null||801..915|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||801..914|Inh|Null|Null|Null||916..958|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||916..958|Inh|Null|Null|Null||960..1058|Inh|Null|Null|Null||
+Explicit|1141..1146|Wr|Comm|Null|Null|||Expansion.Exception||||||1061..1139|Inh|Null|Null|Null||1147..1223|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||1061..1223|Inh|Null|Null|Null||1225..1332|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1147..1223|Inh|Null|Null|Null||1335..1449|Inh|Null|Null|Null||
+Explicit|1357..1360;1391..1393|Wr|Comm|Null|Null|||Contingency.Condition.Hypothetical||||||1361..1390|Inh|Null|Null|Null||1394..1449|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake viruxXa|Comparison.Pragmatic contrast||||||1225..1332|Inh|Null|Null|Null||1451..1563|Inh|Null|Null|Null||
+Explicit|1510..1512|Wr|Comm|Null|Null|||Contingency.Cause.Reason|Expansion.Conjunction|||||1470..1509|Inh|Null|Null|Null||1513..1563|Inh|Null|Null|Null||
+NoRel||||||||||||||1451..1563||||||1565..1631||||||

@@ -1,0 +1,32 @@
+Explicit|316..323;375..380|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||324..373|Inh|Null|Null|Null||381..448|Inh|Null|Null|Null||
+Explicit|393..395;421..423|Wr|Comm|Null|Null|||Temporal.Synchrony||||||381..392;396..420|Inh|Null|Null|Null||424..448|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||381..448|Inh|Null|Null|Null||450..540|Inh|Null|Null|Null||
+Explicit|509..513|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||450..507|Inh|Null|Null|Null||514..539|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion||||||450..539|Inh|Null|Null|Null||541..596|Inh|Null|Null|Null||
+Explicit|582..583|Wr|Comm|Null|Null|||Expansion.Conjunction||||||541..581|Inh|Null|Null|Null||584..596|Inh|Null|Null|Null||
+Explicit|598..608|Wr|Comm|Null|Null|||Expansion.Conjunction||||||541..596|Inh|Null|Null|Null||609..657|Inh|Null|Null|Null||
+Explicit|659..662|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition|Temporal.Synchrony|||||450..657|Inh|Null|Null|Null||664..792|Inh|Null|Null|Null||
+Explicit|761..765|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||664..759|Inh|Null|Null|Null||766..792|Inh|Null|Null|Null||
+EntRel||||||||||||||664..759||||||793..848||||||
+EntRel||||||||||||||793..848||||||850..936||||||
+Explicit|957..959;1067..1069|Wr|Comm|Null|Null|||Temporal.Synchrony||||||938..956;960..1066|Inh|Null|Null|Null||1070..1135|Inh|Null|Null|Null||
+Explicit|982..988|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||938..956;960..981|Inh|Null|Null|Null||989..1066|Inh|Null|Null|Null||
+Explicit|1067..1069|Wr|Comm|Null|Null|||Contingency.Condition.Factual||||||938..1066|Inh|Null|Null|Null||1070..1135|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake wahawa|Expansion.Instantiation||||||1138..1200|Inh|Null|Null|Null||1202..1242;1251..1270|Inh|Null|Null|Null||
+Explicit|1243..1250|Wr|Comm|Null|Null|||Temporal.Synchrony||||||1202..1242;1251..1270|Inh|Null|Null|Null||1272..1305|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1272..1305|Inh|Null|Null|Null||1307..1347|Inh|Null|Null|Null||
+EntRel||||||||||||||1272..1347||||||1349..1429||||||
+Explicit|1431..1439|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1138..1429|Inh|Null|Null|Null||1440..1494|Inh|Null|Null|Null||
+Explicit|1496..1504|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1440..1494|Inh|Null|Null|Null||1505..1620|Inh|Null|Null|Null||
+Explicit|1511..1514;1529..1531|Wr|Comm|Null|Null|||Temporal.Synchrony||||||1505..1510;1515..1527|Inh|Null|Null|Null||1532..1620|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||1505..1620|Inh|Null|Null|Null||1622..1740|Inh|Null|Null|Null||
+Explicit|1701..1705;1719..1729|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1622..1700;1706..1718|Inh|Null|Null|Null||1730..1740|Inh|Null|Null|Null||
+Explicit|1763..1769|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1742..1762|Inh|Null|Null|Null||1770..1803|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1742..1803|Inh|Null|Null|Null||1805..1838|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Pira|Temporal.Asynchronous.Succession||||||1695..1838|Inh|Null|Null|Null||1840..1872|Inh|Null|Null|Null||
+Explicit|1874..1877|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1840..1872|Inh|Null|Null|Null||1879..2007|Inh|Null|Null|Null||
+Explicit|2009..2017|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1879..2007|Inh|Null|Null|Null||2019..2085|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||2019..2085|Inh|Null|Null|Null||2087..2141|Inh|Null|Null|Null||
+Explicit|2143..2149|Wr|Comm|Null|Null|||Temporal.Synchrony|Comparison.Contrast.Juxtaposition|||||1879..2141|Inh|Null|Null|Null||2151..2238|Inh|Null|Null|Null||
+Explicit|2240..2243|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||2151..2238|Inh|Null|Null|Null||2245..2365|Inh|Null|Null|Null||
+Explicit|2303..2305|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2245..2302|Inh|Null|Null|Null||2306..2365|Inh|Null|Null|Null||

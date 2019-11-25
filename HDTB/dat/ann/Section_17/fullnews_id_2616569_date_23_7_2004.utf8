@@ -1,0 +1,22 @@
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||191..351|Inh|Null|Null|Null||353..472|Inh|Null|Null|Null||
+Explicit|429..434|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||369..428|Inh|Null|Null|Null||435..472|Inh|Null|Null|Null||
+Explicit|473..476|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||353..472|Inh|Null|Null|Null||478..536|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||478..536|Inh|Null|Null|Null||538..603|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||538..603|Inh|Null|Null|Null||605..698|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||605..699|Inh|Null|Null|Null||699..761|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||699..761|Inh|Null|Null|Null||762..802|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||762..803|Inh|Null|Null|Null||804..831|Inh|Null|Null|Null||
+Explicit|833..840|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||762..832|Inh|Null|Null|Null||841..931|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||841..931|Inh|Null|Null|Null||933..1067|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse|Expansion.Instantiation||||||986..1024|Inh|Null|Null|Null||1025..1066|Inh|Null|Null|Null||
+Explicit|1043..1045|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1025..1042|Inh|Null|Null|Null||1046..1065|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||841..1067|Inh|Null|Null|Null||1069..1194|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||1069..1193|Inh|Null|Null|Null||1195..1348|Inh|Null|Null|Null||
+Explicit|1350..1354|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1069..1348|Inh|Null|Null|Null||1355..1463|Inh|Null|Null|Null||
+Explicit|1465..1471|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1355..1464|Inh|Null|Null|Null||1472..1525|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||1355..1464|Inh|Null|Null|Null||1527..1712|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic contrast||||||1527..1712|Inh|Null|Null|Null||1713..1870|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1729..1806|Inh|Null|Null|Null||1807..1870|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||1807..1869|Inh|Null|Null|Null||1871..1909|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||1527..1909|Inh|Null|Null|Null||1911..2059|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||2017..2060|Inh|Null|Null|Null||2061..2109|Inh|Null|Null|Null||

@@ -1,0 +1,22 @@
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||141..232|Inh|Null|Null|Null||234..377|Inh|Null|Null|Null||
+Explicit|378..383|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||234..376|Inh|Null|Null|Null||384..439|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Restatement.Specification||||||378..439|Inh|Null|Null|Null||440..529|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||440..528|Inh|Null|Null|Null||530..645|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa prakAra|Expansion.Restatement.Generalization||||||440..645|Inh|Null|Null|Null||646..768|Inh|Null|Null|Null||
+EntRel||||||||||||||646..767||||||769..847||||||
+Explicit|848..853|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||769..847|Inh|Null|Null|Null||854..957|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Conjunction||||||854..956|Inh|Null|Null|Null||958..1053|Inh|Null|Null|Null||
+Explicit|1054..1061;1163..1168|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1062..1162|Inh|Null|Null|Null||1169..1216|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||958..1053|Inh|Null|Null|Null||1054..1217|Inh|Null|Null|Null||
+EntRel||||||||||||||1062..1216||||||1218..1328||||||
+Explicit|1329..1334|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||1218..1328|Inh|Null|Null|Null||1335..1414|Inh|Null|Null|Null||
+AltLex|1416..1431|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1335..1414|Inh|Null|Null|Null||1432..1589|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Pragmatic concession||||||769..1327|Inh|Null|Null|Null||1590..1701|Inh|Null|Null|Null||
+EntRel||||||||||||||1590..1701||||||1702..1754||||||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1702..1753|Inh|Null|Null|Null||1755..1798|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||1416..1589|Inh|Null|Null|Null||1800..1938|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1800..1836;1859..1939|Inh|Null|Null|Null||1940..1976|Inh|Null|Null|Null||
+EntRel||||||||||||||1800..1977||||||1978..2022||||||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||1978..2022|Inh|Null|Null|Null||2023..2169|Inh|Null|Null|Null||
+Explicit|2074..2078|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||2023..2073|Inh|Null|Null|Null||2079..2168|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||2079..2168|Inh|Null|Null|Null||2170..2234|Inh|Null|Null|Null||

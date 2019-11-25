@@ -1,0 +1,9 @@
+Implicit||Wr|Comm|Null|Null||isa waraha|Expansion.Restatement.Equivalence||||||123..244|Inh|Null|Null|Null||246..364|Inh|Null|Null|Null||
+Explicit|311..317|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||246..310|Inh|Null|Null|Null||318..364|Inh|Null|Null|Null||
+Explicit|366..372|Wr|Comm|Null|Null|||Comparison.Concession||||||246..364|Inh|Null|Null|Null||374..439|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||374..439|Inh|Null|Null|Null||441..521|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||441..521|Inh|Null|Null|Null||523..641|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||523..641|Inh|Null|Null|Null||643..702|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||572..641|Inh|Null|Null|Null||660..700|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||643..702|Inh|Null|Null|Null||702..980|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||738..836|Inh|Null|Null|Null||854..980|Inh|Null|Null|Null||

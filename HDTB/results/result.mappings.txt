@@ -1,0 +1,655 @@
+Connective : और
+Types of Sense : 9
+Sense : Temporal.Asynchronous.Succession - 13
+Sense : Expansion.Exception - 1
+Sense : Expansion.Conjunction - 116
+Sense : Expansion.Alternative.Conjunctive - 1
+Sense : Contingency.Pragmatic cause - 1
+Sense : Contingency.Cause.Result - 3
+Sense : Contingency.Cause.Reason - 1
+Sense : Comparison.Contrast.Opposition - 2
+Sense : Comparison.Contrast.Juxtaposition - 4
+
+Connective : लेकिन
+Types of Sense : 9
+Sense : Expansion.Exception - 5
+Sense : Contingency.Cause.Reason - 1
+Sense : Comparison.Pragmatic contrast - 15
+Sense : Comparison.Pragmatic concession - 7
+Sense : Comparison.Contrast.Opposition - 13
+Sense : Comparison.Contrast.Juxtaposition - 4
+Sense : Comparison.Concession.Contra-expectation - 32
+Sense : Comparison.Concession - 1
+Sense : Comparison - 1
+
+Connective : अगर..तो
+Types of Sense : 8
+Sense : Expansion.Instantiation - 1
+Sense : Contingency.Pragmatic condition - 1
+Sense : Contingency.Condition.Unreal past - 1
+Sense : Contingency.Condition.Unreal - 1
+Sense : Contingency.Condition.Hypothetical - 5
+Sense : Contingency.Condition.General - 4
+Sense : Contingency.Condition.Factual - 1
+Sense : Contingency.Condition - 1
+
+Connective : जबकि
+Types of Sense : 6
+Sense : Comparison.Pragmatic contrast - 6
+Sense : Comparison.Contrast.Opposition - 8
+Sense : Comparison.Contrast.Juxtaposition - 21
+Sense : Comparison.Contrast - 1
+Sense : Comparison.Concession.Expectation - 1
+Sense : Comparison.Concession.Contra-expectation - 2
+
+Connective : हालांकि
+Types of Sense : 6
+Sense : Comparison.Pragmatic contrast - 4
+Sense : Comparison.Pragmatic concession - 5
+Sense : Comparison.Contrast.Juxtaposition - 2
+Sense : Comparison.Concession.Expectation - 1
+Sense : Comparison.Concession.Contra-expectation - 9
+Sense : Comparison.Concession - 1
+
+Connective : गौरतलब है कि
+Types of Sense : 5
+Sense : Temporal.Asynchronous.Precedence - 5
+Sense : Expansion.Restatement.Specification - 2
+Sense : Expansion.Conjunction - 2
+Sense : Contingency.Cause.Result - 1
+Sense : Contingency.Cause.Reason - 1
+
+Connective : उधर
+Types of Sense : 5
+Sense : Expansion.Conjunction - 2
+Sense : Comparison.Pragmatic contrast - 3
+Sense : Comparison.Contrast.Opposition - 1
+Sense : Comparison.Contrast.Juxtaposition - 17
+Sense : Comparison.Contrast - 3
+
+Connective : बहरहाल
+Types of Sense : 5
+Sense : Comparison.Pragmatic contrast - 1
+Sense : Comparison.Pragmatic concession - 2
+Sense : Comparison.Contrast.Juxtaposition - 1
+Sense : Comparison.Concession.Contra-expectation - 1
+Sense : Comparison.Concession - 2
+
+Connective : बल्कि
+Types of Sense : 5
+Sense : Expansion.Alternative.Chosen alternative - 3
+Sense : Comparison.Contrast.Opposition - 2
+Sense : Comparison.Contrast.Juxtaposition - 3
+Sense : Comparison.Concession.Contra-expectation - 1
+Sense : Comparison - 1
+
+Connective : पर
+Types of Sense : 4
+Sense : Comparison.Pragmatic concession - 2
+Sense : Comparison.Contrast.Opposition - 2
+Sense : Comparison.Contrast.Juxtaposition - 1
+Sense : Comparison.Concession.Contra-expectation - 3
+
+Connective : यदि..तो
+Types of Sense : 4
+Sense : Contingency.Condition.Hypothetical - 5
+Sense : Contingency.Condition.General - 8
+Sense : Contingency.Condition.Factual - 2
+Sense : Comparison - 1
+
+Connective : या
+Types of Sense : 3
+Sense : Expansion.Alternative.Disjunctive - 3
+Sense : Expansion.Alternative.Conjunctive - 1
+Sense : Expansion.Alternative.Chosen alternative - 5
+
+Connective : जब..तो
+Types of Sense : 3
+Sense : Temporal.Synchrony - 5
+Sense : Contingency.Condition.General - 1
+Sense : Contingency.Cause.Result - 2
+
+Connective : यानी
+Types of Sense : 3
+Sense : Expansion.Restatement.Specification - 1
+Sense : Expansion.Restatement.Generalization - 2
+Sense : Contingency.Cause.Result - 1
+
+Connective : दूसरी ओर
+Types of Sense : 3
+Sense : Expansion.Conjunction - 1
+Sense : Comparison.Pragmatic contrast - 2
+Sense : Comparison.Contrast.Juxtaposition - 9
+
+Connective : वहीं
+Types of Sense : 3
+Sense : Expansion.Conjunction - 1
+Sense : Comparison.Contrast.Opposition - 6
+Sense : Comparison.Contrast.Juxtaposition - 7
+
+Connective : तो
+Types of Sense : 3
+Sense : Contingency.Condition.Factual - 2
+Sense : Contingency.Cause.Result - 5
+Sense : Comparison.Contrast.Juxtaposition - 3
+
+Connective : अलबत्ता
+Types of Sense : 3
+Sense : Comparison.Pragmatic contrast - 1
+Sense : Comparison.Pragmatic concession - 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : मगर
+Types of Sense : 3
+Sense : Comparison.Pragmatic contrast - 1
+Sense : Comparison.Pragmatic concession - 1
+Sense : Comparison.Concession.Contra-expectation - 2
+
+Connective : के बाद
+Types of Sense : 2
+Sense : Temporal.Asynchronous.Succession - 12
+Sense : Temporal.Asynchronous.Precedence - 4
+
+Connective : साथ ही
+Types of Sense : 2
+Sense : Temporal.Synchrony - 1
+Sense : Expansion.Conjunction - 18
+
+Connective : आगे
+Types of Sense : 2
+Sense : Temporal.Asynchronous.Succession - 2
+Sense : Expansion.Conjunction - 3
+
+Connective : या फिर
+Types of Sense : 2
+Sense : Expansion.Alternative.Disjunctive - 1
+Sense : Expansion.Alternative.Chosen alternative - 1
+
+Connective : तभी..जब
+Types of Sense : 2
+Sense : Temporal.Synchrony - 1
+Sense : Contingency.Condition.Hypothetical - 1
+
+Connective : जिससे
+Types of Sense : 2
+Sense : Contingency.Pragmatic cause - 1
+Sense : Contingency.Cause.Result - 4
+
+Connective : जब..तब
+Types of Sense : 2
+Sense : Temporal.Synchrony - 4
+Sense : Contingency.Cause.Result - 1
+
+Connective : अंततः
+Types of Sense : 2
+Sense : Expansion.Conjunction - 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : इसके लिए
+Types of Sense : 2
+Sense : Contingency.Pragmatic cause - 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : दरअसल
+Types of Sense : 2
+Sense : Expansion.Restatement.Generalization - 1
+Sense : Contingency.Cause.Reason - 2
+
+Connective : की वजह से
+Types of Sense : 2
+Sense : Contingency.Cause.Result - 2
+Sense : Contingency.Cause.Reason - 2
+
+Connective : के कारण
+Types of Sense : 2
+Sense : Contingency.Cause.Result - 1
+Sense : Contingency.Cause.Reason - 2
+
+Connective : तब..जब
+Types of Sense : 2
+Sense : Temporal.Synchrony - 2
+Sense : Contingency.Cause.Reason - 1
+
+Connective : ताकि
+Types of Sense : 2
+Sense : Contingency.Goal - 8
+Sense : Contingency.Cause.Reason - 1
+
+Connective : तथा
+Types of Sense : 2
+Sense : Expansion.Conjunction - 6
+Sense : Comparison.Contrast.Juxtaposition - 4
+
+Connective : इस बीच,
+Types of Sense : 2
+Sense : Temporal.Synchrony - 3
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : इसके अलावा
+Types of Sense : 2
+Sense : Expansion.Conjunction - 21
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : इसी प्रकार
+Types of Sense : 2
+Sense : Expansion.Conjunction - 2
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : जहाँ..वहीं
+Types of Sense : 2
+Sense : Comparison.Contrast.Opposition - 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : तो..लेकिन
+Types of Sense : 2
+Sense : Comparison.Pragmatic contrast - 1
+Sense : Comparison.Concession.Contra-expectation - 1
+
+Connective : इस दौरान
+Types of Sense : 1
+Sense : Temporal.Synchrony - 8
+
+Connective : इस बीच
+Types of Sense : 1
+Sense : Temporal.Synchrony - 7
+
+Connective : तब
+Types of Sense : 1
+Sense : Temporal.Synchrony - 3
+
+Connective : इसी दिन
+Types of Sense : 1
+Sense : Temporal.Synchrony - 1
+
+Connective : जैसे ही
+Types of Sense : 1
+Sense : Temporal.Synchrony - 1
+
+Connective : जब..तभी..भी
+Types of Sense : 1
+Sense : Temporal.Synchrony - 1
+
+Connective : जब
+Types of Sense : 1
+Sense : Temporal.Synchrony - 1
+
+Connective : इसके बाद
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 12
+
+Connective : बाद में
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 5
+
+Connective : और बाद में
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 2
+
+Connective : उसके बाद
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 2
+
+Connective : इसी के बाद
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 2
+
+Connective : इसके बाद से
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 1
+
+Connective : और तभी
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 1
+
+Connective : और उसके बाद
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 1
+
+Connective : इसके थोड़ी देर बाद
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 1
+
+Connective : इस घटना के बाद
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 1
+
+Connective : पहले..और बाद में
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 1
+
+Connective : जैसे ही..तो
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Succession - 1
+
+Connective : इससे पहले
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Precedence - 5
+
+Connective : इसके पूर्व
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Precedence - 1
+
+Connective : इसके पहले
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Precedence - 1
+
+Connective : पहले
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Precedence - 1
+
+Connective : इससे पहले भी
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Precedence - 1
+
+Connective : इससे पूर्व
+Types of Sense : 1
+Sense : Temporal.Asynchronous.Precedence - 1
+
+Connective : खासकर
+Types of Sense : 1
+Sense : Expansion.Restatement.Specification - 4
+
+Connective : इसके तहत
+Types of Sense : 1
+Sense : Expansion.Restatement.Specification - 2
+
+Connective : इसका
+Types of Sense : 1
+Sense : Expansion.Restatement.Specification - 1
+
+Connective : इसतरह
+Types of Sense : 1
+Sense : Expansion.Restatement.Generalization - 1
+
+Connective : यानि
+Types of Sense : 1
+Sense : Expansion.Restatement.Generalization - 1
+
+Connective : खासतौर पर
+Types of Sense : 1
+Sense : Expansion.Instantiation - 1
+
+Connective : मसलन,
+Types of Sense : 1
+Sense : Expansion.Instantiation - 1
+
+Connective : खासतौर से
+Types of Sense : 1
+Sense : Expansion.Instantiation - 1
+
+Connective : इसके साथ ही
+Types of Sense : 1
+Sense : Expansion.Conjunction - 7
+
+Connective : व
+Types of Sense : 1
+Sense : Expansion.Conjunction - 2
+
+Connective : न तो..और न ही
+Types of Sense : 1
+Sense : Expansion.Conjunction - 2
+
+Connective : उल्लेखनीय है कि
+Types of Sense : 1
+Sense : Expansion.Conjunction - 2
+
+Connective : इसी तरह से
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : इसके अतिरिक्त
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : वहीं पर
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : उस पर
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : बताया जाता है कि
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : इतना ही नहीं
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : दूसरे
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : इनके अलावा
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : इस बारे में
+Types of Sense : 1
+Sense : Expansion.Conjunction - 1
+
+Connective : या तो..या
+Types of Sense : 1
+Sense : Expansion.Alternative.Disjunctive - 1
+
+Connective : इसके बाद ही
+Types of Sense : 1
+Sense : Contingency.Condition.Hypothetical - 1
+
+Connective : इसलिए
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 21
+
+Connective : इससे
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 8
+
+Connective : इस पर
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 5
+
+Connective : लिहाजा
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 4
+
+Connective : इसके चलते
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 3
+
+Connective : इसी लिए
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 2
+
+Connective : जिसके चलते
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 2
+
+Connective : इसकेलिए
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : इसी के चलते
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : फलतः
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : इसपर
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : इसके मद्देनजर
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : जिससे कि
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : जिसकी वजह से
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : ऐसे में
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : आखिरकार
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : नतीजतन
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : इस लिए
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : इस कारण
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : इस प्रकार
+Types of Sense : 1
+Sense : Contingency.Cause.Result - 1
+
+Connective : क्योंकि
+Types of Sense : 1
+Sense : Contingency.Cause.Reason - 10
+
+Connective : के लिए
+Types of Sense : 1
+Sense : Contingency.Cause.Reason - 6
+
+Connective : से
+Types of Sense : 1
+Sense : Contingency.Cause.Reason - 1
+
+Connective : केलिए
+Types of Sense : 1
+Sense : Contingency.Cause.Reason - 1
+
+Connective : इसलिए..क्योंकि
+Types of Sense : 1
+Sense : Contingency.Cause.Reason - 1
+
+Connective : चूंकि
+Types of Sense : 1
+Sense : Contingency.Cause.Reason - 1
+
+Connective : बहरहाल,
+Types of Sense : 1
+Sense : Comparison.Pragmatic contrast - 2
+
+Connective : फिर भी
+Types of Sense : 1
+Sense : Comparison.Pragmatic contrast - 1
+
+Connective : एक तरफ..और दूसरी तरफ
+Types of Sense : 1
+Sense : Comparison.Pragmatic contrast - 1
+
+Connective : भले ही..लेकिन
+Types of Sense : 1
+Sense : Comparison.Pragmatic contrast - 1
+
+Connective : वैसे
+Types of Sense : 1
+Sense : Comparison.Pragmatic contrast - 1
+
+Connective : इसके उलट
+Types of Sense : 1
+Sense : Comparison.Pragmatic concession - 1
+
+Connective : बेशक..लेकिन
+Types of Sense : 1
+Sense : Comparison.Pragmatic concession - 1
+
+Connective : हालाकि
+Types of Sense : 1
+Sense : Comparison.Pragmatic concession - 1
+
+Connective : भले..पर
+Types of Sense : 1
+Sense : Comparison.Contrast.Opposition - 1
+
+Connective : भले ही..पर
+Types of Sense : 1
+Sense : Comparison.Contrast.Opposition - 1
+
+Connective : लेकिन,
+Types of Sense : 1
+Sense : Comparison.Contrast.Opposition - 1
+
+Connective : उधर,
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 7
+
+Connective : दूसरी तरफ
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 2
+
+Connective : वहीं दूसरी ओर
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : हालाँकि..लेकिन
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : वहीं,
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : इसी तरह
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : जहां..वहीं
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : दूसरी ओर,
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : वहीं..तो
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : इधर
+Types of Sense : 1
+Sense : Comparison.Contrast.Juxtaposition - 1
+
+Connective : के बावजूद
+Types of Sense : 1
+Sense : Comparison.Concession.Expectation - 1
+
+Connective : हालांकि..लेकिन
+Types of Sense : 1
+Sense : Comparison.Concession.Contra-expectation - 4
+
+Connective : बावजूद इसके
+Types of Sense : 1
+Sense : Comparison.Concession.Contra-expectation - 1
+
+Connective : हालांकि..पर
+Types of Sense : 1
+Sense : Comparison.Concession.Contra-expectation - 1
+
+Connective : लेनिक
+Types of Sense : 1
+Sense : Comparison.Concession.Contra-expectation - 1
+
+Connective : यूं तो..लेकिन
+Types of Sense : 1
+Sense : Comparison.Concession.Contra-expectation - 1
+
+Connective : यद्यपि.., पर..पर
+Types of Sense : 1
+Sense : Comparison.Concession.Contra-expectation - 1
+

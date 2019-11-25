@@ -1,0 +1,36 @@
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason|Expansion.Conjunction|||||178..239|Inh|Null|Null|Null||241..289|Inh|Null|Null|Null||
+Explicit|291..296|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||178..239|Inh|Null|Null|Null||298..391|Inh|Null|Null|Null||
+Explicit|361..366|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||298..360|Inh|Null|Null|Null||367..391|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||298..391|Inh|Null|Null|Null||393..478|Inh|Null|Null|Null||
+Explicit|480..489|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||393..478|Inh|Null|Null|Null||490..526|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Pragmatic contrast||||||528..583|Inh|Null|Null|Null||585..640|Inh|Null|Null|Null||
+EntRel||||||||||||||528..640||||||642..707||||||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||178..239|Inh|Null|Null|Null||708..848|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||910..926|Inh|Null|Null|Null||928..964|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||910..964|Inh|Null|Null|Null||966..1003|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa bIca|Temporal.Synchrony||||||966..1003|Inh|Null|Null|Null||1005..1083|Inh|Null|Null|Null||
+Explicit|1056..1064|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1005..1054|Inh|Null|Null|Null||1065..1083|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1087..1151|Inh|Null|Null|Null||1152..1192|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jaba ki|Comparison.Contrast.Juxtaposition||||||1152..1192|Inh|Null|Null|Null||1214..1241|Inh|Null|Null|Null||
+Explicit|1243..1247|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||1194..1241|Inh|Null|Null|Null||1248..1342|Inh|Null|Null|Null||
+EntRel||||||||||||||1345..1469||||||1471..1542||||||
+Explicit|1638..1646|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1611..1636|Inh|Null|Null|Null||1647..1680|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||1682..1694|Inh|Null|Null|Null||1696..1736|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||saMkRepa meM|Expansion.Restatement.Generalization||||||1740..1854|Inh|Null|Null|Null||1856..1909|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Instantiation||||||1912..2081|Inh|Null|Null|Null||2083..2286|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||2201..2286|Inh|Null|Null|Null||2149..2199|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Restatement||||||2201..2256|Inh|Null|Null|Null||2258..2286|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Instantiation||||||2202..2286|Inh|Null|Null|Null||2288..2332|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Instantiation||||||2360..2417|Inh|Null|Null|Null||2419..2501|Inh|Null|Null|Null||
+Explicit|2453..2458|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||2419..2452|Inh|Null|Null|Null||2459..2501|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||2419..2501|Inh|Null|Null|Null||2503..2682|Inh|Null|Null|Null||
+Explicit|2588..2593|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||2503..2586|Inh|Null|Null|Null||2595..2681|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||2503..2681|Inh|Null|Null|Null||2683..2747|Inh|Null|Null|Null||
+Explicit|2749..2754|Wr|Comm|Null|Null|||Expansion.Restatement.Generalization||||||2419..2747|Inh|Null|Null|Null||2755..2842|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Restatement.Specification||||||2845..2946|Inh|Null|Null|Null||2948..3328|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||2948..2982|Inh|Null|Null|Null||2984..3088|Inh|Null|Null|Null||
+Explicit|3089..3094|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||2948..2982|Inh|Null|Null|Null||3096..3123|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||3096..3123|Inh|Null|Null|Null||3125..3328|Inh|Null|Null|Null||
+Explicit|3185..3194|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||3137..3183|Inh|Null|Null|Null||3195..3223|Inh|Null|Null|Null||
+AltLex|3225..3233|Wr|Comm|Null|Null|||Expansion.Conjunction||||||3125..3223|Inh|Null|Null|Null||3234..3328|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa sAWa|Expansion.Conjunction||||||3234..3328|Inh|Null|Null|Null||3331..3482|Inh|Null|Null|Null||

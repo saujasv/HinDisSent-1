@@ -1,0 +1,11 @@
+EntRel||||||||||||||199..267||||||269..499||||||
+Explicit|356..362|Wr|Comm|Null|Null|||Expansion.Conjunction||||||269..354|Inh|Null|Null|Null||363..499|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||saMkRepa meM|Expansion.Restatement.Generalization||||||269..499|Inh|Null|Null|Null||500..580|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||500..580|Inh|Null|Null|Null||582..706|Inh|Null|Null|Null||
+Explicit|727..735|Wr|Comm|Null|Null|||Expansion.Restatement.Specification||||||582..706|Inh|Null|Null|Null||736..802|Inh|Null|Null|Null||
+Explicit|804..812|Wr|Comm|Null|Null|||Expansion.Restatement.Specification||||||580..706|Inh|Null|Null|Null||813..919|Inh|Null|Null|Null||
+Explicit|921..927|Wr|Comm|Null|Null|||Expansion.Conjunction||||||813..919|Inh|Null|Null|Null||928..1005|Inh|Null|Null|Null||
+Explicit|1008..1018|Wr|Comm|Null|Null|||Expansion.Conjunction||||||928..1005|Inh|Null|Null|Null||1019..1146|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1019..1146|Inh|Null|Null|Null||1148..1291|Inh|Null|Null|Null||
+Explicit|1231..1233|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1164..1230|Inh|Null|Null|Null||1234..1291|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1019..1146|Inh|Null|Null|Null||1293..1388|Inh|Null|Null|Null||

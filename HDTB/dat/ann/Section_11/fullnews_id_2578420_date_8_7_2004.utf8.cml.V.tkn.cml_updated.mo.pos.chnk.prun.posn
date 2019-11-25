@@ -1,0 +1,11 @@
+Explicit|210..215|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||113..209|Inh|Null|Null|Null||216..270|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||क्योंकि|Contingency.Cause.Reason||||||216..268|Inh|Null|Null|Null||271..353|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके लिए|Expansion.Conjunction||||||271..353|Inh|Null|Null|Null||356..402|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसपर|Expansion.Conjunction||||||356..402|Inh|Null|Null|Null||405..520|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||जिसके चलते|Contingency.Cause.Result||||||405..520|Inh|Null|Null|Null||523..578|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||जहां..वहीं|Comparison.Contrast.Juxtaposition||||||581..688|Inh|Null|Null|Null||691..754|Inh|Null|Null|Null||
+Explicit|798..800|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||757..797|Inh|Null|Null|Null||801..833|Inh|Null|Null|Null||
+Explicit|917..920|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||834..914|Inh|Null|Null|Null||923..999|Inh|Null|Null|Null||
+Explicit|1000..1003|Wr|Comm|Null|Null|||Expansion.Conjunction||||||923..997|Inh|Null|Null|Null||1004..1058|Inh|Null|Null|Null||
+Explicit|1064..1071|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1004..1058|Inh|Null|Null|Null||1072..1126|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||खासकर|Expansion.Restatement.Specification||||||1004..1126|Inh|Null|Null|Null||1129..1324|Inh|Null|Null|Null||

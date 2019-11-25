@@ -1,0 +1,15 @@
+EntRel||||||||||||||145..240||||||242..323||||||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||145..240|Inh|Null|Null|Null||325..421|Inh|Null|Null|Null||
+Explicit|404..406|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||377..403|Inh|Null|Null|Null||407..422|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||377..421|Inh|Null|Null|Null||423..455|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||145..240|Inh|Null|Null|Null||484..633|Inh|Null|Null|Null||
+Explicit|604..606|Wr|Comm|Null|Null|||Expansion.Conjunction||||||484..603|Inh|Null|Null|Null||607..632|Inh|Null|Null|Null||
+Explicit|607..617|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||484..603|Inh|Null|Null|Null||618..632|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||457..633|Inh|Null|Null|Null||633..690|Inh|Null|Null|Null||
+Explicit|692..697|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||633..690|Inh|Null|Null|Null||698..742|Inh|Null|Null|Null||
+EntRel||||||||||||||633..742||||||744..853||||||
+Implicit||Wr|Comm|Null|Null||isake pahale|Temporal.Asynchronous.Precedence||||||744..853|Inh|Null|Null|Null||855..950|Inh|Null|Null|Null||
+Explicit|951..963|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||855..949|Inh|Null|Null|Null||964..1048|Inh|Null|Null|Null||
+EntRel||||||||||||||964..1048||||||1050..1118||||||
+Explicit|1077..1082|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1050..1076|Inh|Null|Null|Null||1083..1118|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||951..1118|Inh|Null|Null|Null||1119..1166|Inh|Null|Null|Null||

@@ -1,0 +1,7 @@
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Pragmatic contrast||||||126..299|Inh|Null|Null|Null||300..438|Inh|Null|Null|Null||
+EntRel||||||||||||||300..438||||||438..646||||||
+Explicit|592..597|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||438..590|Inh|Null|Null|Null||598..646|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||598..645|Inh|Null|Null|Null||647..779|Inh|Null|Null|Null||
+Explicit|738..743|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||663..737|Inh|Null|Null|Null||744..780|Inh|Null|Null|Null||
+AltLex|782..797|Wr|Comm|Null|Null|||Expansion.Conjunction||||||438..646|Inh|Null|Null|Null||798..934|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||798..934|Inh|Null|Null|Null||935..1068|Inh|Null|Null|Null||

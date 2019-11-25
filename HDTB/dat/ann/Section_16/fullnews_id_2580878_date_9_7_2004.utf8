@@ -1,0 +1,16 @@
+Implicit||Wr|Comm|Null|Null||KAZsa wOra para|Expansion.Restatement.Specification||||||222..357|Inh|Null|Null|Null||359..472|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||473..583|Inh|Null|Null|Null||585..676|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||585..676|Inh|Null|Null|Null||678..778|Inh|Null|Null|Null||
+EntRel||||||||||||||678..778||||||780..877||||||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||780..877|Inh|Null|Null|Null||879..958|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Restatement.Specification||||||961..1098|Inh|Null|Null|Null||1100..1277|Inh|Null|Null|Null||
+EntRel||||||||||||||1100..1277||||||1279..1399||||||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||961..1399|Inh|Null|Null|Null||1402..1522|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||1402..1523|Inh|Null|Null|Null||1524..1636|Inh|Null|Null|Null||
+Explicit|1582..1584|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1540..1581|Inh|Null|Null|Null||1585..1636|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Conjunction||||||1540..1636|Inh|Null|Null|Null||1638..1720|Inh|Null|Null|Null||
+Explicit|1838..1844|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1805..1837|Inh|Null|Null|Null||1845..1908|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ese|Expansion.Restatement.Specification||||||1911..2070|Inh|Null|Null|Null||2072..2197|Inh|Null|Null|Null||
+Explicit|2137..2141|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||2072..2136|Inh|Null|Null|Null||2142..2197|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||saMkRepa meM|Expansion.Restatement.Generalization||||||2200..2365|Inh|Null|Null|Null||2385..2524|Inh|Null|Null|Null||
+EntRel||||||||||||||2527..2660||||||2662..2792||||||

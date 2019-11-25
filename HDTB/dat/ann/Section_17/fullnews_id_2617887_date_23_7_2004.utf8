@@ -1,0 +1,19 @@
+EntRel||||||||||||||134..236||||||237..278||||||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||134..278|Inh|Null|Null|Null||279..387|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||279..386|Inh|Null|Null|Null||388..454|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||388..454|Inh|Null|Null|Null||456..503|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||456..503|Inh|Null|Null|Null||504..701|Inh|Null|Null|Null||
+Explicit|669..671|Wr|Comm|Null|Null|||Expansion.Conjunction|Contingency.Cause.Result|||||614..668|Inh|Null|Null|Null||672..701|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||456..701|Inh|Null|Null|Null||702..791|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic concession||||||745..790|Inh|Null|Null|Null||792..864|Inh|Null|Null|Null||
+EntRel||||||||||||||702..864||||||865..944||||||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||865..944|Inh|Null|Null|Null||946..1032|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||504..701|Inh|Null|Null|Null||1034..1131|Inh|Null|Null|Null||
+Explicit|1124..1126|Wr|Comm|Null|Null|||Expansion.Alternative.Disjunctive||||||1103..1123|Inh|Null|Null|Null||1127..1131|Inh|Null|Null|Null||
+Explicit|1133..1138|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||1086..1131|Inh|Null|Null|Null||1139..1175|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1034..1132|Inh|Null|Null|Null||1177..1327|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||1034..1327|Inh|Null|Null|Null||1329..1433|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1329..1434|Inh|Null|Null|Null||1435..1503|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1435..1503|Inh|Null|Null|Null||1505..1653|Inh|Null|Null|Null||
+Explicit|1563..1568|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1521..1562|Inh|Null|Null|Null||1569..1653|Inh|Null|Null|Null||
+Explicit|1593..1595|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1569..1592|Inh|Null|Null|Null||1596..1653|Inh|Null|Null|Null||

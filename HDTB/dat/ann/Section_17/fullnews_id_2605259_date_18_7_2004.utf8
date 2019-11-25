@@ -1,0 +1,8 @@
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Restatement.Specification||||||130..233|Inh|Null|Null|Null||235..426|Inh|Null|Null|Null||
+Explicit|357..363|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||283..356|Inh|Null|Null|Null||364..425|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||235..426|Inh|Null|Null|Null||427..545|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake pahale|Temporal.Asynchronous.Precedence||||||443..546|Inh|Null|Null|Null||547..644|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||547..644|Inh|Null|Null|Null||646..712|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||427..711|Inh|Null|Null|Null||713..872|Inh|Null|Null|Null||
+Explicit|813..819|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||739..812|Inh|Null|Null|Null||820..872|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||739..873|Inh|Null|Null|Null||874..939|Inh|Null|Null|Null||

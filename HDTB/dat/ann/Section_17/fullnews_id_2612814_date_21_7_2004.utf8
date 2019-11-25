@@ -1,0 +1,17 @@
+Implicit||Wr|Comm|Null|Null||jEse|Expansion.Instantiation||||||183..259|Inh|Null|Null|Null||261..328|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||261..328|Inh|Null|Null|Null||329..422|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||329..421|Inh|Null|Null|Null||423..496|Inh|Null|Null|Null||
+Explicit|497..501|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||329..422|Inh|Null|Null|Null||502..581|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isI prakAra|Expansion.Conjunction||||||502..581|Inh|Null|Null|Null||582..685|Inh|Null|Null|Null||
+Explicit|686..696|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||603..684|Inh|Null|Null|Null||697..816|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||686..816|Inh|Null|Null|Null||817..995|Inh|Null|Null|Null||
+Explicit|863..872|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||873..994|Inh|Null|Null|Null||817..862|Inh|Null|Null|Null||
+Explicit|929..931|Wr|Comm|Null|Null|||Expansion.Conjunction||||||873..928|Inh|Null|Null|Null||932..995|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||817..994|Inh|Null|Null|Null||994..1172|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||582..1175|Inh|Null|Null|Null||1174..1306|Inh|Null|Null|Null||
+Explicit|1274..1283|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1284..1305|Inh|Null|Null|Null||1200..1273|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||1200..1305|Inh|Null|Null|Null||1307..1380|Inh|Null|Null|Null||
+Explicit|1381..1391|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1200..1305|Inh|Null|Null|Null||1392..1467|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic concession||||||1392..1468|Inh|Null|Null|Null||1469..1525|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||1174..1468|Inh|Null|Null|Null||1528..1607|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||1528..1608|Inh|Null|Null|Null||1609..1757|Inh|Null|Null|Null||

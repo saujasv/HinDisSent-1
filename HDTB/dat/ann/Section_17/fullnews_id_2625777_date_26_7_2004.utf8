@@ -1,0 +1,15 @@
+Explicit|299..305|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||306..358|Inh|Null|Null|Null||197..298|Inh|Null|Null|Null||
+EntRel||||||||||||||197..358||||||359..437||||||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||197..358|Inh|Null|Null|Null||438..595|Inh|Null|Null|Null||
+Explicit|541..543|Wr|Comm|Null|Null|||Expansion.Conjunction||||||438..540|Inh|Null|Null|Null||544..594|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||359..437|Inh|Null|Null|Null||595..733|Inh|Null|Null|Null||
+EntRel||||||||||||||595..732||||||734..791||||||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||595..733|Inh|Null|Null|Null||792..875|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Contingency.Pragmatic cause||||||792..875|Inh|Null|Null|Null||876..1014|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||876..1014|Inh|Null|Null|Null||1015..1134|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1015..1133|Inh|Null|Null|Null||1135..1176|Inh|Null|Null|Null||
+EntRel||||||||||||||1135..1176||||||1178..1668||||||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic concession||||||1178..1668|Inh|Null|Null|Null||1669..1749|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||1669..1749|Inh|Null|Null|Null||1750..1843|Inh|Null|Null|Null||
+Explicit|1785..1787|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1788..1842|Inh|Null|Null|Null||1750..1784|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||1669..1843|Inh|Null|Null|Null||1844..1994|Inh|Null|Null|Null||

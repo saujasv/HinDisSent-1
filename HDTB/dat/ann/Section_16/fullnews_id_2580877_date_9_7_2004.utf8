@@ -1,0 +1,23 @@
+EntRel||||||||||||||174..416||||||418..523||||||
+Explicit|525..529|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||418..523|Inh|Null|Null|Null||530..580|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Contrast.Opposition||||||418..523|Inh|Null|Null|Null||581..709|Inh|Null|Null|Null||
+EntRel||||||||||||||418..709||||||711..808||||||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||767..808|Inh|Null|Null|Null||810..1009|Inh|Null|Null|Null||
+EntRel||||||||||||||810..1009||||||1011..1049||||||
+Explicit|1117..1123|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1053..1116|Inh|Null|Null|Null||1124..1235|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa waraha se|Expansion||||||1053..1235|Inh|Null|Null|Null||1237..1316|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||agara..wo|Contingency.Condition||||||1237..1270|Inh|Null|Null|Null||1271..1316|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Concession.Contra-expectation||||||1237..1316|Inh|Null|Null|Null||1318..1374|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||yAnI|Expansion.Restatement.Equivalence||||||1318..1374|Inh|Null|Null|Null||1376..1424|Inh|Null|Null|Null||
+Explicit|1426..1431|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1376..1424|Inh|Null|Null|Null||1432..1539|Inh|Null|Null|Null||
+Explicit|1657..1659|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1559..1656|Inh|Null|Null|Null||1660..1724|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||paraMwu|Comparison.Contrast.Opposition||||||525..580|Inh|Null|Null|Null||1729..1786|Inh|Null|Null|Null||
+Explicit|1788..1793|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast|Comparison.Contrast.Juxtaposition|||||1729..1786|Inh|Null|Null|Null||1794..1932|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Comparison.Contrast.Juxtaposition||||||1660..1727|Inh|Null|Null|Null||1950..2010|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Comparison.Pragmatic contrast||||||1950..2010|Inh|Null|Null|Null||2012..2060|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa waraha se|Comparison.Contrast||||||1950..2060|Inh|Null|Null|Null||2062..2134|Inh|Null|Null|Null||
+EntRel||||||||||||||2062..2134||||||2136..2184||||||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||2136..2184|Inh|Null|Null|Null||2186..2262|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora Age|Expansion.Conjunction||||||2186..2262|Inh|Null|Null|Null||2264..2410|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||2413..2644|Inh|Null|Null|Null||2646..2779|Inh|Null|Null|Null||
+Explicit|2781..2786|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition|Comparison.Concession.Contra-expectation|||||2718..2779|Inh|Null|Null|Null||2787..2933|Inh|Null|Null|Null||

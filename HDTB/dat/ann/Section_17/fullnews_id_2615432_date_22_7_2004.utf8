@@ -1,0 +1,17 @@
+EntRel||||||||||||||124..205||||||206..280||||||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||206..281|Inh|Null|Null|Null||282..476|Inh|Null|Null|Null||
+Explicit|398..403|Wr|Comm|Null|Null|||Comparison.Pragmatic concession||||||282..396|Inh|Null|Null|Null||404..475|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||282..475|Inh|Null|Null|Null||476..573|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||476..573|Inh|Null|Null|Null||575..643|Inh|Null|Null|Null||
+Explicit|645..650|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||476..644|Inh|Null|Null|Null||651..978|Inh|Null|Null|Null||
+Explicit|723..730|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||731..794|Inh|Null|Null|Null||680..722|Inh|Null|Null|Null||
+Explicit|795..803|Wr|Comm|Null|Null|||Temporal.Synchrony||||||651..793|Inh|Null|Null|Null||804..894|Inh|Null|Null|Null||
+Explicit|895..908|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||804..894|Inh|Null|Null|Null||909..978|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa prakAra|Expansion.Restatement.Generalization||||||651..978|Inh|Null|Null|Null||979..1095|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Contingency.Cause.Reason||||||979..1094|Inh|Null|Null|Null||1096..1388|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1096..1162|Inh|Null|Null|Null||1164..1218|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||1096..1163|Inh|Null|Null|Null||1220..1291|Inh|Null|Null|Null||
+AltLex|1293..1306|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1220..1292|Inh|Null|Null|Null||1307..1388|Inh|Null|Null|Null||
+Explicit|1390..1396|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1293..1389|Inh|Null|Null|Null||1396..1517|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1398..1516|Inh|Null|Null|Null||1518..1713|Inh|Null|Null|Null||
+EntRel||||||||||||||1518..1666||||||1668..1713||||||

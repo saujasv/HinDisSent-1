@@ -1,0 +1,8 @@
+Explicit|340..346|Wr|Comm|Null|Null|||Expansion.Conjunction||||||113..337|Inh|Null|Null|Null||347..471|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इससे पहले|Expansion.Conjunction||||||113..471|Inh|Null|Null|Null||474..612|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||वहीं|Expansion.Conjunction||||||474..612|Inh|Null|Null|Null||615..747|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||वहीं|Expansion.Conjunction||||||615..747|Inh|Null|Null|Null||750..892|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस पर|Expansion.Conjunction||||||750..892|Inh|Null|Null|Null||895..988|Inh|Null|Null|Null||
+Explicit|991..996|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||895..988|Inh|Null|Null|Null||997..1046|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा|Expansion.Conjunction||||||893..1046|Inh|Null|Null|Null||1049..1160|Inh|Null|Null|Null||
+Explicit|1163..1168|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1049..1160|Inh|Null|Null|Null||1169..1227|Inh|Null|Null|Null||

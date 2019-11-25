@@ -1,0 +1,9 @@
+EntRel||||||||||||||113..261||||||262..416||||||
+EntRel||||||||||||||262..416||||||417..587||||||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||113..587|Inh|Null|Null|Null||588..704|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||588..704|Inh|Null|Null|Null||705..818|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||705..818|Inh|Null|Null|Null||819..923|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||819..923|Inh|Null|Null|Null||924..1012|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||705..1012|Inh|Null|Null|Null||1013..1084|Inh|Null|Null|Null||
+Explicit|1085..1090|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1027..1084|Inh|Null|Null|Null||1091..1190|Inh|Null|Null|Null||
+EntRel||||||||||||||113..1190||||||1191..1306||||||

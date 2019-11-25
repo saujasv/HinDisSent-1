@@ -1,0 +1,6 @@
+Implicit||Wr|Comm|Null|Null||खासकर|Expansion.Instantiation||||||274..430|Inh|Null|Null|Null||433..681|Inh|Null|Null|Null||
+Explicit|555..559|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||433..552|Inh|Null|Null|Null||560..681|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही |Expansion.Conjunction||||||560..681|Inh|Null|Null|Null||684..741|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इससे पूर्व|Temporal.Asynchronous.Precedence||||||113..743|Inh|Null|Null|Null||744..839|Inh|Null|Null|Null||
+AltLex|842..855|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||744..839|Inh|Null|Null|Null||856..910|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा|Expansion.Conjunction||||||842..910|Inh|Null|Null|Null||913..1049|Inh|Null|Null|Null||

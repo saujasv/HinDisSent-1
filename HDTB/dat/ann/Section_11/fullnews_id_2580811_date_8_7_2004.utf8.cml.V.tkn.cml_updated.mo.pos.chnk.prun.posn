@@ -1,0 +1,7 @@
+EntRel||||||||||||||113..249||||||252..363||||||
+Implicit||Wr|Comm|Null|Null||उल्लेखनीय है कि|Expansion.Conjunction||||||252..363|Inh|Null|Null|Null||366..436|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस बारे में|Expansion.Conjunction||||||252..436|Inh|Null|Null|Null||439..499|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और|Expansion.Conjunction||||||439..499|Inh|Null|Null|Null||502..607|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही|Expansion.Conjunction||||||439..607|Inh|Null|Null|Null||610..678|Inh|Null|Null|Null||
+Explicit|980..995|Wr|Comm|Null|Null|||Expansion.Conjunction||||||681..972|Inh|Null|Null|Null||996..1065|Inh|Null|Null|Null||
+EntRel||||||||||||||679..1065||||||1068..1789||||||

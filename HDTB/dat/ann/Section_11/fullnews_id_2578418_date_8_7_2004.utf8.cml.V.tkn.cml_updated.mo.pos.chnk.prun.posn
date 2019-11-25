@@ -1,0 +1,13 @@
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||235..512|Inh|Null|Null|Null||513..603|Inh|Null|Null|Null||
+Explicit|604..608|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||535..603|Inh|Null|Null|Null||609..697|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||513..697|Inh|Null|Null|Null||698..927|Inh|Null|Null|Null||
+Explicit|830..833;856..858|Wr|Comm|Null|Null|||Contingency.Condition.Hypothetical||||||834..855|Inh|Null|Null|Null||859..927|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Concession.Contra-expectation||||||698..927|Inh|Null|Null|Null||928..1023|Inh|Null|Null|Null||
+Explicit|1024..1031|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||928..1023|Inh|Null|Null|Null||1032..1136|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||ora|Expansion.Conjunction||||||1137..1219|Inh|Null|Null|Null||1222..1243|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Conjunction||||||928..1245|Inh|Null|Null|Null||1246..1353|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||ora|Temporal.Asynchronous.Succession||||||1270..1353|Inh|Null|Null|Null||1354..1458|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1246..1577|Inh|Null|Null|Null||1578..1777|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Temporal.Asynchronous.Succession||||||1602..1777|Inh|Null|Null|Null||1778..1883|Inh|Null|Null|Null||
+Explicit|1970..1974|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||1889..1969|Inh|Null|Null|Null||1975..2067|Inh|Null|Null|Null||
+Explicit|2068..2075|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1889..2067|Inh|Null|Null|Null||2076..2174|Inh|Null|Null|Null||

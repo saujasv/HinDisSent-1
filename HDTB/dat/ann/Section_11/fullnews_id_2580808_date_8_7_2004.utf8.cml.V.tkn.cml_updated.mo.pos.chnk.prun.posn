@@ -1,0 +1,14 @@
+AltLex|231..234|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||113..228|Inh|Null|Null|Null||237..266|Inh|Null|Null|Null||
+Explicit|274..279|Wr|Comm|Null|Null|||Expansion.Conjunction|Temporal.Asynchronous.Succession|||||113..266|Inh|Null|Null|Null||280..380|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||वही|Expansion.Conjunction||||||113..380|Inh|Null|Null|Null||383..546|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||गौरतलब है कि|Expansion.Conjunction||||||113..546|Inh|Null|Null|Null||549..618|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इससे पूर्व|Expansion.Conjunction||||||549..618|Inh|Null|Null|Null||621..866|Inh|Null|Null|Null||
+Explicit|799..804|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||699..796|Inh|Null|Null|Null||805..866|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस पर|Expansion.Conjunction||||||699..868|Inh|Null|Null|Null||869..1042|Inh|Null|Null|Null||
+Explicit|1129..1136|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||869..1126|Inh|Null|Null|Null||1139..1257|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||उल्लेखनीय है कि|Contingency.Pragmatic cause||||||1260..1322|Inh|Null|Null|Null||1325..1617|Inh|Null|Null|Null||
+Explicit|1477..1480;1506..1508|Wr|Comm|Null|Null|||Contingency.Condition.Unreal past||||||1481..1505|Inh|Null|Null|Null||1509..1617|Inh|Null|Null|Null||
+Explicit|1565..1567|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1509..1564|Inh|Null|Null|Null||1568..1617|Inh|Null|Null|Null||
+Explicit|1620..1626;1694..1699|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1627..1691|Inh|Null|Null|Null||1700..1760|Inh|Null|Null|Null||
+Explicit|1694..1699|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1620..1691|Inh|Null|Null|Null||1700..1760|Inh|Null|Null|Null||
+Explicit|1990..1997;2051..2056|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1963..1989;1998..2050|Inh|Null|Null|Null||2057..2142|Inh|Null|Null|Null||

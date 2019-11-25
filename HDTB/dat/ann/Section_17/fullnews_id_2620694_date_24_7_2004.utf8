@@ -1,0 +1,9 @@
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||163..269|Inh|Null|Null|Null||271..422|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse|Expansion.Instantiation||||||271..422|Inh|Null|Null|Null||423..563|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||423..562|Inh|Null|Null|Null||564..752|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse|Expansion.Instantiation||||||564..752|Inh|Null|Null|Null||753..929|Inh|Null|Null|Null||
+Explicit|775..779;848..852|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||753..774;780..847|Inh|Null|Null|Null||853..928|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||753..929|Inh|Null|Null|Null||930..1057|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse|Expansion.Instantiation||||||930..1058|Inh|Null|Null|Null||1059..1313|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa prakAra|Expansion.Conjunction||||||1059..1313|Inh|Null|Null|Null||1314..1527|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||1314..1527|Inh|Null|Null|Null||1528..1692|Inh|Null|Null|Null||

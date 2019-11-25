@@ -1,0 +1,18 @@
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Instantiation||||||113..243|Inh|Null|Null|Null||244..337|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||403..495|Inh|Null|Null|Null||496..645|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||496..645|Inh|Null|Null|Null||646..829|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Temporal.Asynchronous.Succession||||||830..945|Inh|Null|Null|Null||946..1019|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||944..1019|Inh|Null|Null|Null||1020..1200|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||1201..1356|Inh|Null|Null|Null||1357..1443|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||ora|Expansion.Conjunction||||||1357..1443|Inh|Null|Null|Null||1444..1520|Inh|Null|Null|Null||
+Explicit|1521..1525|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1355..1520|Inh|Null|Null|Null||1526..1656|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1526..1656|Inh|Null|Null|Null||1657..1840|Inh|Null|Null|Null||
+Explicit|1717..1720|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1677..1716|Inh|Null|Null|Null||1721..1836|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jabaki|Comparison.Contrast.Juxtaposition||||||1657..1836|Inh|Null|Null|Null||1837..1916|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1837..1916|Inh|Null|Null|Null||1917..2073|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1917..2073|Inh|Null|Null|Null||2074..2184|Inh|Null|Null|Null||
+Explicit|2137..2142|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||2094..2136|Inh|Null|Null|Null||2143..2184|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||2074..2184|Inh|Null|Null|Null||2185..2356|Inh|Null|Null|Null||
+Explicit|2265..2270|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||2185..2264|Inh|Null|Null|Null||2271..2322|Inh|Null|Null|Null||
+Explicit|2323..2328|Wr|Comm|Null|Null|||Expansion.Exception||||||2271..2320|Inh|Null|Null|Null||2329..2356|Inh|Null|Null|Null||
+Explicit|2357..2367|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2185..2356|Inh|Null|Null|Null||2368..2420|Inh|Null|Null|Null||

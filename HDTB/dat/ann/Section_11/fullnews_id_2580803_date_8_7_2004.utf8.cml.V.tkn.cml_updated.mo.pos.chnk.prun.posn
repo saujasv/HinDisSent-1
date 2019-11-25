@@ -1,0 +1,15 @@
+Explicit|236..240;277..281|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||113..235;241..274|Inh|Null|Null|Null||282..313|Inh|Null|Null|Null||
+EntRel||||||||||||||113..313||||||316..410||||||
+Explicit|413..417|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||316..410|Inh|Null|Null|Null||418..554|Inh|Null|Null|Null||
+Explicit|557..564|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||418..554|Inh|Null|Null|Null||567..616|Inh|Null|Null|Null||
+Explicit|619..635|Wr|Comm|Null|Null|||Expansion.Conjunction||||||113..616|Inh|Null|Null|Null||636..797|Inh|Null|Null|Null||
+Explicit|921..929|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||800..918|Inh|Null|Null|Null||930..985|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||उसके बाद|Temporal.Asynchronous.Succession||||||930..985|Inh|Null|Null|Null||988..1088|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस दौरान|Temporal.Synchrony||||||1091..1159|Inh|Null|Null|Null||1162..1210|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा|Expansion.Conjunction||||||1162..1210|Inh|Null|Null|Null||1213..1268|Inh|Null|Null|Null||
+Explicit|1235..1237|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1213..1234|Inh|Null|Null|Null||1238..1268|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||वहीं|Comparison.Contrast||||||1269..1357|Inh|Null|Null|Null||1360..1434|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||हालाँकि |Comparison.Concession.Contra-expectation||||||1437..1498|Inh|Null|Null|Null||1499..1542|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||क्योंकि |Contingency.Cause.Reason||||||1543..1643|Inh|Null|Null|Null||1644..1761|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा |Expansion.Conjunction||||||1762..1831|Inh|Null|Null|Null||1832..1886|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||परन्तु |Comparison.Concession.Contra-expectation||||||1887..2014|Inh|Null|Null|Null||2015..2118|Inh|Null|Null|Null||

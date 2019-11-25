@@ -1,0 +1,5 @@
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||130..338|Inh|Null|Null|Null||339..498|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||339..498|Inh|Null|Null|Null||500..555|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||500..555|Inh|Null|Null|Null||556..759|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||589..759|Inh|Null|Null|Null||760..944|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||760..868|Inh|Null|Null|Null||870..944|Inh|Null|Null|Null||

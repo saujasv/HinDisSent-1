@@ -1,0 +1,15 @@
+Implicit||Wr|Comm|Null|Null||isake pahale|Temporal.Asynchronous.Precedence||||||143..273|Inh|Null|Null|Null||274..414|Inh|Null|Null|Null||
+Explicit|352..358|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||359..414|Inh|Null|Null|Null||274..351|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isI prakAra|Expansion.Restatement.Specification||||||143..273|Inh|Null|Null|Null||415..493|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||415..494|Inh|Null|Null|Null||493..565|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||495..566|Inh|Null|Null|Null||567..677|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||495..678|Inh|Null|Null|Null||677..1134|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||678..956|Inh|Null|Null|Null||957..1134|Inh|Null|Null|Null||
+Explicit|1041..1045|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||957..1039|Inh|Null|Null|Null||1046..1134|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic contrast||||||678..955|Inh|Null|Null|Null||1136..1334|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1136..1334|Inh|Null|Null|Null||1335..1587|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jabaki|Comparison.Contrast.Juxtaposition||||||1335..1586|Inh|Null|Null|Null||1588..1679|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic concession||||||567..677|Inh|Null|Null|Null||1680..1779|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1680..1780|Inh|Null|Null|Null||1781..1853|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jabaki|Comparison.Contrast.Juxtaposition||||||1680..1779|Inh|Null|Null|Null||1855..1950|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||1855..1950|Inh|Null|Null|Null||1952..2198|Inh|Null|Null|Null||

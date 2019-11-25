@@ -1,0 +1,21 @@
+Explicit|330..341|Wr|Comm|Null|Null|||Expansion.Conjunction||||||194..328|Inh|Null|Null|Null||342..424|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa sAWa|Expansion.Conjunction||||||342..424|Inh|Null|Null|Null||426..508|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||426..508|Inh|Null|Null|Null||510..588|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||510..588|Inh|Null|Null|Null||589..735|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||589..735|Inh|Null|Null|Null||737..875|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||781..875|Inh|Null|Null|Null||877..1000|Inh|Null|Null|Null||
+Explicit|961..965|Wr|Comm|Null|Null|||Contingency.Goal||||||877..959|Inh|Null|Null|Null||966..1000|Inh|Null|Null|Null||
+Explicit|1042..1048|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1003..1041|Inh|Null|Null|Null||1049..1193|Inh|Null|Null|Null||
+Explicit|1097..1099|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1049..1096|Inh|Null|Null|Null||1100..1193|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||1049..1193|Inh|Null|Null|Null||1195..1316|Inh|Null|Null|Null||
+Explicit|1318..1328|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1211..1316|Inh|Null|Null|Null||1329..1372|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1195..1316|Inh|Null|Null|Null||1374..1493|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1374..1493|Inh|Null|Null|Null||1495..1656|Inh|Null|Null|Null||
+Explicit|1795..1805|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1659..1793|Inh|Null|Null|Null||1806..1869|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Restatement.Equivalence||||||877..959|Inh|Null|Null|Null||1872..2008|Inh|Null|Null|Null||
+EntRel||||||||||||||1894..2008||||||2010..2110||||||
+Explicit|2065..2069|Wr|Comm|Null|Null|||Contingency.Goal||||||2010..2064|Inh|Null|Null|Null||2070..2110|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||2010..2110|Inh|Null|Null|Null||2112..2221|Inh|Null|Null|Null||
+Explicit|2158..2162|Wr|Comm|Null|Null|||Contingency.Goal||||||2112..2157|Inh|Null|Null|Null||2163..2221|Inh|Null|Null|Null||
+Explicit|2224..2233|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||1872..2221|Inh|Null|Null|Null||2234..2324|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||2234..2324|Inh|Null|Null|Null||2326..2435|Inh|Null|Null|Null||

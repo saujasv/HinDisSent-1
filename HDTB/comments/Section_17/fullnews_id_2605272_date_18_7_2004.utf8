@@ -1,0 +1,5 @@
+#Thu Feb 02 18:51:48 IST 2012
+Implicit||1452..1668|1669..1760=Again this is not result but arg1 is reason
+AltLex|741..754|630..740|755..827=This is again the case where Arg2 doesn't seem to be result, but arg1 is the reason
+AltLex|1762..1777|1228..1451|1778..1990=This is relavance, but as we don't have a relavance tag, cause can be seen there.
+Implicit||2107..2225|2226..2321='xarasal'  doesn't seem proper here, but no other connective represents the specification here

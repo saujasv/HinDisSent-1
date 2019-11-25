@@ -1,0 +1,9 @@
+#Sun Apr 22 12:40:12 IST 2012
+Implicit||1185..1225|1226..1292=This is background information or Norel can be annotated
+Implicit||957..1065|1066..1109=This is not exactly reason but pragmatic reason or background, but reason can be inferred.
+AltLex|2664..2686|2585..2662|2687..2756=is this Altlex?
+NoRel||2295..2397|2399..2487=Norel, but may be annotated background information
+Explicit|1469..1475|1226..1468|1477..1708=Need to discuss about sense of 'baharHal'. doesn't seem to be Pragmatic Concession
+Implicit||2488..2583|2585..2662=is 'baht sambhav hai' Altlex?
+Implicit||1914..2056|2057..2294=Arg2 is the reason why Arg1
+Implicit||759..885|887..952=This seems to be Background information.

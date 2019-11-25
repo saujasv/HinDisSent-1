@@ -1,0 +1,8 @@
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||130..286|Inh|Null|Null|Null||287..500|Inh|Null|Null|Null||
+Explicit|390..392|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||287..389|Inh|Null|Null|Null||393..500|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||287..500|Inh|Null|Null|Null||500..614|Inh|Null|Null|Null||
+EntRel||||||||||||||536..614||||||615..637||||||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||500..638|Inh|Null|Null|Null||639..753|Inh|Null|Null|Null||
+Explicit|703..708|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||655..702|Inh|Null|Null|Null||709..753|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||500..614|Inh|Null|Null|Null||754..820|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||792..820|Inh|Null|Null|Null||821..895|Inh|Null|Null|Null||

@@ -1,0 +1,16 @@
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||206..302|Inh|Null|Null|Null||304..451|Inh|Null|Null|Null||
+Explicit|401..407|Wr|Comm|Null|Null|||Expansion.Conjunction||||||323..399|Inh|Null|Null|Null||408..451|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||206..302|Inh|Null|Null|Null||453..584|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||585..749|Inh|Null|Null|Null||751..828|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora Age|Expansion.Conjunction||||||751..828|Inh|Null|Null|Null||830..926|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Conjunction||||||830..926|Inh|Null|Null|Null||928..1072|Inh|Null|Null|Null||
+Explicit|998..1006|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||944..997|Inh|Null|Null|Null||1007..1072|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1074..1230|Inh|Null|Null|Null||1232..1361|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1245..1363|Inh|Null|Null|Null||1380..1441|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||kyoMki|Contingency.Pragmatic cause|||1445..1538|Inh|Null|Null|Null||1540..1657|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1556..1657|Inh|Null|Null|Null||1659..1732|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1734..1871|Inh|Null|Null|Null||1873..1927|Inh|Null|Null|Null||
+Explicit|1983..1985|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1946..1982|Inh|Null|Null|Null||1986..2045|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||eka ora..xUsarI ora|Comparison.Contrast.Juxtaposition||||||1946..2045|Inh|Null|Null|Null||2062..2188|Inh|Null|Null|Null||
+EntRel||||||||||||||2062..2102||||||2104..2188||||||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||2147..2188|Inh|Null|Null|Null||2213..2269|Inh|Null|Null|Null||

@@ -1,0 +1,18 @@
+EntRel||||||||||||||204..362||||||363..470||||||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||363..470|Inh|Null|Null|Null||471..595|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||471..594|Inh|Null|Null|Null||595..767|Inh|Null|Null|Null||
+Explicit|768..771;813..815|Wr|Comm|Null|Null|||Contingency.Condition.General||||||772..812|Inh|Null|Null|Null||816..898|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||712..767|Inh|Null|Null|Null||768..898|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||595..898|Inh|Null|Null|Null||899..1038|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||899..1039|Inh|Null|Null|Null||1041..1138|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||1041..1137|Inh|Null|Null|Null||1139..1376|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||1139..1265|Inh|Null|Null|Null||1266..1376|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1266..1376|Inh|Null|Null|Null||1377..1467|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa prakAra|Expansion.Restatement.Generalization||||||1266..1467|Inh|Null|Null|Null||1469..1609|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1469..1610|Inh|Null|Null|Null||1611..1679|Inh|Null|Null|Null||
+Explicit|1681..1686|Wr|Comm|Null|Null|||Expansion.Instantiation||||||1611..1680|Inh|Null|Null|Null||1687..1743|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1611..1680|Inh|Null|Null|Null||1745..1815|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1745..1814|Inh|Null|Null|Null||1816..1938|Inh|Null|Null|Null||
+Explicit|1939..1941|Wr|Comm|Null|Null|||Comparison.Pragmatic concession||||||1611..1680|Inh|Null|Null|Null||1942..1988|Inh|Null|Null|Null||
+NoRel||||||||||||||1816..1988||||||1990..2170||||||
+Explicit|2171..2175|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||2059..2170|Inh|Null|Null|Null||2176..2284|Inh|Null|Null|Null||

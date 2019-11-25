@@ -1,0 +1,18 @@
+EntRel||||||||||||||113..268||||||269..378||||||
+Explicit|324..326|Wr|Comm|Null|Null|||Expansion.Conjunction||||||269..323|Inh|Null|Null|Null||327..378|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा |Expansion.Conjunction||||||269..378|Inh|Null|Null|Null||381..531|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इससे लगता हैं|Contingency.Pragmatic cause||||||381..531|Inh|Null|Null|Null||534..583|Inh|Null|Null|Null||
+Explicit|591..603|Wr|Comm|Null|Null|||Expansion.Conjunction||||||113..585|Inh|Null|Null|Null||604..764|Inh|Null|Null|Null||
+Explicit|727..729|Wr|Comm|Null|Null|||Expansion.Conjunction||||||604..726|Inh|Null|Null|Null||730..764|Inh|Null|Null|Null||
+Explicit|767..777|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||604..764|Inh|Null|Null|Null||778..879|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||जिसके बाद|Temporal.Asynchronous.Succession||||||882..1072|Inh|Null|Null|Null||1075..1162|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस कारण |Contingency.Pragmatic cause||||||1266..1322|Inh|Null|Null|Null||1323..1362|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा |Expansion.Conjunction||||||1266..1362|Inh|Null|Null|Null||1365..1468|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके कारन |Contingency.Pragmatic cause||||||1365..1468|Inh|Null|Null|Null||1471..1555|Inh|Null|Null|Null||
+Explicit|1705..1710|Wr|Comm|Null|Null|||Contingency.Pragmatic cause||||||1711..1763|Inh|Null|Null|Null||1558..1702|Inh|Null|Null|Null||
+Explicit|1853..1861|Wr|Comm|Null|Null|||Temporal.Synchrony||||||1764..1850|Inh|Null|Null|Null||1862..1933|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके बाद |Temporal.Asynchronous.Succession||||||1936..2039|Inh|Null|Null|Null||2042..2086|Inh|Null|Null|Null||
+Explicit|2124..2126|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2089..2123|Inh|Null|Null|Null||2127..2237|Inh|Null|Null|Null||
+Explicit|2240..2248|Wr|Comm|Null|Null|||Temporal.Synchrony||||||2089..2237|Inh|Null|Null|Null||2249..2279|Inh|Null|Null|Null||
+Explicit|2325..2327|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2282..2324|Inh|Null|Null|Null||2328..2380|Inh|Null|Null|Null||
+Explicit|2419..2423|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||2381..2416|Inh|Null|Null|Null||2424..2452|Inh|Null|Null|Null||

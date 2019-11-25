@@ -1,0 +1,13 @@
+Explicit|266..271|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||272..338|Inh|Null|Null|Null||211..265|Inh|Null|Null|Null||
+Explicit|356..360|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||154..338|Inh|Null|Null|Null||340..355;361..477|Inh|Null|Null|Null||
+Explicit|413..415|Wr|Comm|Null|Null|||Expansion.Conjunction||||||361..412|Inh|Null|Null|Null||416..477|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa prakAra|Expansion.Restatement.Generalization||||||154..477|Inh|Null|Null|Null||478..670|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||478..670|Inh|Null|Null|Null||672..793|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||672..793|Inh|Null|Null|Null||796..898|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||830..899|Inh|Null|Null|Null||900..989|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||900..989|Inh|Null|Null|Null||990..1084|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||990..1084|Inh|Null|Null|Null||1086..1290|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1086..1290|Inh|Null|Null|Null||1291..1424|Inh|Null|Null|Null||
+Explicit|1384..1390|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1315..1383|Inh|Null|Null|Null||1391..1423|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||1292..1424|Inh|Null|Null|Null||1425..1538|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Temporal.Asynchronous.Succession||||||1425..1538|Inh|Null|Null|Null||1539..1725|Inh|Null|Null|Null||

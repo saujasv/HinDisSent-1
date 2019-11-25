@@ -1,0 +1,5 @@
+#Sun Jan 29 17:52:55 IST 2012
+EntRel||1800..1977|1978..2022=Entrel of 'bijali ki kami' is marked, However a more correct analysis is insertion of 'gaurtalab hai ki' with background information sense.
+Implicit||1416..1589|1800..1938=Though this is not result but arg1 is the reason
+Implicit||769..1327|1590..1701=Though this seems to be Entrel of 'tamam bandhishon' to all the things described, but since we are not marking long distance Entrel, this could also be viewed as comaprison
+Explicit|1054..1061;1163..1168|1062..1162|1169..1216=Example to be noted for 'halaNki-lekina' cases

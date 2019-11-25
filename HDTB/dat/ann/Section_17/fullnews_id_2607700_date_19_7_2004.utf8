@@ -1,0 +1,18 @@
+EntRel||||||||||||||195..330||||||331..377||||||
+Explicit|378..383|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||331..377|Inh|Null|Null|Null||384..435|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jisase|Contingency.Cause.Result||||||384..436|Inh|Null|Null|Null||437..480|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||437..480|Inh|Null|Null|Null||481..616|Inh|Null|Null|Null||
+EntRel||||||||||||||481..520||||||521..615||||||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||481..615|Inh|Null|Null|Null||617..721|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake pahale|Temporal.Asynchronous.Precedence||||||617..720|Inh|Null|Null|Null||721..847|Inh|Null|Null|Null||
+Explicit|797..802|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||721..796|Inh|Null|Null|Null||803..847|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jisake bAxa|Temporal.Asynchronous.Succession|Contingency.Cause.Result|||||803..847|Inh|Null|Null|Null||848..950|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||848..950|Inh|Null|Null|Null||951..1032|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||971..1031|Inh|Null|Null|Null||1058..1169|Inh|Null|Null|Null||
+Explicit|1121..1123|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1058..1120|Inh|Null|Null|Null||1124..1169|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||971..1169|Inh|Null|Null|Null||1171..1305|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||1171..1304|Inh|Null|Null|Null||1306..1384|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1306..1384|Inh|Null|Null|Null||1385..1532|Inh|Null|Null|Null||
+Explicit|1533..1540|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1306..1532|Inh|Null|Null|Null||1541..1646|Inh|Null|Null|Null||
+Explicit|1647..1654|Wr|Comm|Null|Null|||Comparison.Pragmatic concession||||||1541..1646|Inh|Null|Null|Null||1655..1711|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1655..1711|Inh|Null|Null|Null||1712..1823|Inh|Null|Null|Null||

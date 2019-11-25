@@ -1,0 +1,19 @@
+Explicit|260..266|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||267..377|Inh|Null|Null|Null||168..259|Inh|Null|Null|Null||
+EntRel||||||||||||||168..376||||||378..440||||||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||378..440|Inh|Null|Null|Null||441..546|Inh|Null|Null|Null||
+Explicit|499..501|Wr|Comm|Null|Null|||Expansion.Conjunction||||||441..498|Inh|Null|Null|Null||502..545|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Concession.Contra-expectation||||||168..376|Inh|Null|Null|Null||549..608|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||549..608|Inh|Null|Null|Null||610..717|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||549..716|Inh|Null|Null|Null||719..873|Inh|Null|Null|Null||
+AltLex|874..892|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||976..1018|Inh|Null|Null|Null||893..974|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||988..1017|Inh|Null|Null|Null||1019..1063|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic contrast||||||874..1064|Inh|Null|Null|Null||1065..1274|Inh|Null|Null|Null||
+Explicit|1185..1191|Wr|Comm|Null|Null|||Expansion.Alternative.Chosen alternative||||||1127..1184|Inh|Null|Null|Null||1192..1274|Inh|Null|Null|Null||
+Explicit|1276..1283|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1192..1274|Inh|Null|Null|Null||1284..1360|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||874..1064|Inh|Null|Null|Null||1362..1534|Inh|Null|Null|Null||
+EntRel||||||||||||||1390..1474||||||1476..1534||||||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||1362..1534|Inh|Null|Null|Null||1536..1687|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1556..1687|Inh|Null|Null|Null||1688..1763|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1688..1763|Inh|Null|Null|Null||1765..1812|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1765..1812|Inh|Null|Null|Null||1814..1939|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1814..1939|Inh|Null|Null|Null||1942..1993|Inh|Null|Null|Null||

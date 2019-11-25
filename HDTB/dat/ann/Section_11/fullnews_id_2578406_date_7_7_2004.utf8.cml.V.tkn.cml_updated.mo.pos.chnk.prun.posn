@@ -1,0 +1,23 @@
+Implicit||Wr|Comm|Null|Null||इसके साथ |Expansion.Conjunction||||||265..366|Inh|Null|Null|Null||367..449|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा|Expansion.Conjunction||||||367..449|Inh|Null|Null|Null||448..551|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही|Expansion.Conjunction||||||113..551|Inh|Null|Null|Null||552..654|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा |Expansion.Conjunction||||||552..654|Inh|Null|Null|Null||655..735|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस बारे में|Expansion.Conjunction||||||655..735|Inh|Null|Null|Null||736..1192|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||जबकि |Comparison.Contrast.Juxtaposition||||||736..1192|Inh|Null|Null|Null||1193..1341|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||फलत: |Expansion.Restatement.Generalization||||||367..1559|Inh|Null|Null|Null||1560..1686|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और |Expansion.Conjunction||||||1560..1686|Inh|Null|Null|Null||1687..1748|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और |Expansion.Conjunction||||||2033..2068|Inh|Null|Null|Null||2069..2111|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा|Expansion.Conjunction||||||2069..2111|Inh|Null|Null|Null||2112..2205|Inh|Null|Null|Null||
+Explicit|2206..2212|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2135..2205|Inh|Null|Null|Null||2213..2261|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||आगे |Expansion.Conjunction||||||2213..2259|Inh|Null|Null|Null||2262..2634|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा |Expansion.Conjunction||||||2262..2634|Inh|Null|Null|Null||2635..2734|Inh|Null|Null|Null||
+Explicit|2735..2743|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||2635..2734|Inh|Null|Null|Null||2744..2781|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा |Expansion.Conjunction||||||2782..2847|Inh|Null|Null|Null||2848..2912|Inh|Null|Null|Null||
+Explicit|3054..3057|Wr|Comm|Null|Null|||Expansion.Conjunction||||||2990..3053|Inh|Null|Null|Null||3058..3196|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही |Expansion.Conjunction||||||2966..3194|Inh|Null|Null|Null||3195..3256|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और |Expansion.Conjunction||||||3195..3256|Inh|Null|Null|Null||3257..3386|Inh|Null|Null|Null||
+Explicit|3296..3299;3315..3317|Wr|Comm|Null|Null|||Contingency.Condition.Hypothetical||||||3257..3295;3300..3312|Inh|Null|Null|Null||3318..3386|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा |Expansion.Conjunction||||||3257..3386|Inh|Null|Null|Null||3387..3490|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||व |Expansion.Conjunction||||||3385..3488|Inh|Null|Null|Null||3491..3528|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और |Temporal.Asynchronous.Succession||||||3529..3599|Inh|Null|Null|Null||3600..3783|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||लेकिन |Comparison.Concession.Contra-expectation||||||3529..3783|Inh|Null|Null|Null||3784..3922|Inh|Null|Null|Null||

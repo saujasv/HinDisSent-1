@@ -1,0 +1,16 @@
+EntRel||||||||||||||129..308||||||309..391||||||
+EntRel||||||||||||||309..391||||||393..451||||||
+Implicit||Wr|Comm|Null|Null||xara-asala|Expansion.Restatement.Specification||||||129..392|Inh|Null|Null|Null||453..661|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake pahale|Temporal.Asynchronous.Precedence||||||453..661|Inh|Null|Null|Null||662..773|Inh|Null|Null|Null||
+Explicit|691..693;699..701|Wr|Comm|Null|Null|||Contingency.Cause.Reason|Temporal.Synchrony|||||662..690;694..698|Inh|Null|Null|Null||702..772|Inh|Null|Null|Null||
+Explicit|774..776;915..917|Wr|Comm|Null|Null|||Contingency.Cause.Result|Temporal|||||777..914|Inh|Null|Null|Null||918..979|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xara-asala|Expansion.Restatement.Specification||||||662..773|Inh|Null|Null|Null||774..1204|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||918..980|Inh|Null|Null|Null||981..1063|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Pala svarUpa|Contingency.Cause.Result||||||981..1063|Inh|Null|Null|Null||1064..1139|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1064..1139|Inh|Null|Null|Null||1140..1205|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||453..661|Inh|Null|Null|Null||1206..1286|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waba|Temporal.Synchrony||||||1227..1286|Inh|Null|Null|Null||1287..1333|Inh|Null|Null|Null||
+AltLex|1334..1346|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||1206..1333|Inh|Null|Null|Null||1347..1448|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waba|Temporal.Synchrony||||||1347..1449|Inh|Null|Null|Null||1450..1512|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1206..1333|Inh|Null|Null|Null||1513..1639|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1513..1639|Inh|Null|Null|Null||1640..1684|Inh|Null|Null|Null||

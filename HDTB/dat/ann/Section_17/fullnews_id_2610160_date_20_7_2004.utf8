@@ -1,0 +1,6 @@
+Implicit||Wr|Comm|Null|Null||isake pahale|Temporal.Asynchronous.Precedence||||||118..252|Inh|Null|Null|Null||254..387|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||118..253|Inh|Null|Null|Null||388..514|Inh|Null|Null|Null||
+Explicit|451..453|Wr|Comm|Null|Null|||Comparison.Pragmatic concession||||||419..449|Inh|Null|Null|Null||454..514|Inh|Null|Null|Null||
+Explicit|461..464;489..491|Wr|Comm|Null|Null|||Contingency.Condition.General||||||465..488|Inh|Null|Null|Null||492..515|Inh|Null|Null|Null||
+Explicit|516..522|Wr|Comm|Null|Null|||Expansion.Conjunction||||||419..514|Inh|Null|Null|Null||523..576|Inh|Null|Null|Null||
+Explicit|577..583|Wr|Comm|Null|Null|||Temporal.Synchrony||||||388..576|Inh|Null|Null|Null||584..676|Inh|Null|Null|Null||

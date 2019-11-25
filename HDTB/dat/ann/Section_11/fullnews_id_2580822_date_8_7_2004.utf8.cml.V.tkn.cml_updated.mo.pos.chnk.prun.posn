@@ -1,0 +1,17 @@
+Explicit|260..270|Wr|Comm|Null|Null|||Expansion.Conjunction||||||113..259|Inh|Null|Null|Null||271..424|Inh|Null|Null|Null||
+Explicit|346..351|Wr|Comm|Null|Null|||Expansion.Exception||||||287..345|Inh|Null|Null|Null||352..424|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsare SabxoM meM|Expansion.Restatement.Equivalence||||||287..424|Inh|Null|Null|Null||423..570|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||425..570|Inh|Null|Null|Null||571..646|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||571..646|Inh|Null|Null|Null||647..736|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||647..736|Inh|Null|Null|Null||737..824|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||737..824|Inh|Null|Null|Null||825..916|Inh|Null|Null|Null||
+Explicit|866..868|Wr|Comm|Null|Null|||Expansion.Conjunction||||||825..865|Inh|Null|Null|Null||869..916|Inh|Null|Null|Null||
+Explicit|917..927|Wr|Comm|Null|Null|||Expansion.Conjunction||||||825..916|Inh|Null|Null|Null||930..1083|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||saMkRepa meM|Expansion.Restatement.Generalization||||||930..1083|Inh|Null|Null|Null||1084..1136|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isase pahale|Temporal.Asynchronous.Precedence||||||1084..1136|Inh|Null|Null|Null||1137..1170|Inh|Null|Null|Null||
+EntRel||||||||||||||928..1170||||||1171..1251||||||
+Implicit||Wr|Comm|Null|Null||gOrwalaba he ki|Comparison.Contrast.Opposition||||||1084..1251|Inh|Null|Null|Null||1252..1386|Inh|Null|Null|Null||
+NoRel||||||||||||||1252..1386||||||1387..1533||||||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Pragmatic contrast||||||1387..1535|Inh|Null|Null|Null||1536..1638|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1536..1638|Inh|Null|Null|Null||1639..1719|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1694..1719|Inh|Null|Null|Null||1720..1751|Inh|Null|Null|Null||

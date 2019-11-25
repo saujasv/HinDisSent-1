@@ -1,0 +1,20 @@
+EntRel||||||||||||||113..251||||||252..419||||||
+Explicit|315..320|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||252..314|Inh|Null|Null|Null||321..419|Inh|Null|Null|Null||
+Explicit|420..430|Wr|Comm|Null|Null|||Expansion.Conjunction||||||278..419|Inh|Null|Null|Null||431..496|Inh|Null|Null|Null||
+EntRel||||||||||||||252..496||||||497..650||||||
+Explicit|605..608|Wr|Comm|Null|Null|||Expansion.Conjunction||||||549..604|Inh|Null|Null|Null||609..650|Inh|Null|Null|Null||
+EntRel||||||||||||||113..650||||||651..790||||||
+Explicit|744..748|Wr|Comm|Null|Null|||Contingency.Goal||||||688..743|Inh|Null|Null|Null||749..790|Inh|Null|Null|Null||
+Explicit|791..793;812..814|Wr|Comm|Null|Null|||Temporal.Synchrony||||||794..811|Inh|Null|Null|Null||815..885|Inh|Null|Null|Null||
+Explicit|843..845|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||791..842|Inh|Null|Null|Null||846..885|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||791..885|Inh|Null|Null|Null||886..969|Inh|Null|Null|Null||
+Explicit|919..921|Wr|Comm|Null|Null|||Expansion.Conjunction||||||886..918|Inh|Null|Null|Null||922..969|Inh|Null|Null|Null||
+Explicit|970..977|Wr|Comm|Null|Null|||Comparison.Concession||||||886..969|Inh|Null|Null|Null||978..1115|Inh|Null|Null|Null||
+Explicit|1116..1121|Wr|Comm|Null|Null|||Comparison||||||978..1115|Inh|Null|Null|Null||1122..1206|Inh|Null|Null|Null||
+Explicit|1207..1213|Wr|Comm|Null|Null|||Comparison.Concession||||||1122..1206|Inh|Null|Null|Null||1214..1295|Inh|Null|Null|Null||
+NoRel||||||||||||||1214..1295||||||1296..1403||||||
+Explicit|1404..1409|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1296..1403|Inh|Null|Null|Null||1410..1450|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake sAWa sAWa|Expansion.Conjunction||||||1410..1450|Inh|Null|Null|Null||1451..1568|Inh|Null|Null|Null||
+AltLex|1569..1582|Wr|Comm|Null|Null|||Temporal.Synchrony||||||1451..1568|Inh|Null|Null|Null||1583..1687|Inh|Null|Null|Null||
+Explicit|1634..1636|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1569..1633|Inh|Null|Null|Null||1637..1685|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||1583..1687|Inh|Null|Null|Null||1688..1736|Inh|Null|Null|Null||

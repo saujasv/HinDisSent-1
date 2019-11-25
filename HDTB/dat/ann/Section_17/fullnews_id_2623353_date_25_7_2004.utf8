@@ -1,0 +1,17 @@
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||137..239|Inh|Null|Null|Null||240..403|Inh|Null|Null|Null||
+Explicit|326..328;362..367|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||240..325;329..361|Inh|Null|Null|Null||368..403|Inh|Null|Null|Null||
+Explicit|404..415|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||368..402|Inh|Null|Null|Null||416..559|Inh|Null|Null|Null||
+Explicit|524..526|Wr|Comm|Null|Null|||Expansion.Conjunction||||||416..523|Inh|Null|Null|Null||527..559|Inh|Null|Null|Null||
+EntRel||||||||||||||416..560||||||560..644||||||
+Explicit|645..650|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||560..644|Inh|Null|Null|Null||651..691|Inh|Null|Null|Null||
+Explicit|692..697|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||651..691|Inh|Null|Null|Null||698..742|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Concession.Contra-expectation||||||698..743|Inh|Null|Null|Null||744..827|Inh|Null|Null|Null||
+Explicit|778..780|Wr|Comm|Null|Null|||Expansion.Conjunction||||||744..777|Inh|Null|Null|Null||781..826|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Conjunction||||||744..827|Inh|Null|Null|Null||828..920|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||828..920|Inh|Null|Null|Null||922..993|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Concession.Contra-expectation||||||922..994|Inh|Null|Null|Null||995..1104|Inh|Null|Null|Null||
+Explicit|1059..1069|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||995..1058|Inh|Null|Null|Null||1070..1103|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||993..1104|Inh|Null|Null|Null||1105..1247|Inh|Null|Null|Null||
+EntRel||||||||||||||1105..1247||||||1248..1282||||||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic concession||||||1248..1283|Inh|Null|Null|Null||1284..1320|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1248..1283|Inh|Null|Null|Null||1322..1413|Inh|Null|Null|Null||

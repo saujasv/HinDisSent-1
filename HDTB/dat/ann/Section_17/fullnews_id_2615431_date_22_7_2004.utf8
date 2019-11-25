@@ -1,0 +1,20 @@
+Explicit|240..242|Wr|Comm|Null|Null|||Expansion.Conjunction||||||130..239|Inh|Null|Null|Null||243..293|Inh|Null|Null|Null||
+Explicit|294..303|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||130..293|Inh|Null|Null|Null||304..372|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||294..372|Inh|Null|Null|Null||374..489|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isI prakAra|Expansion.Restatement.Generalization||||||130..373|Inh|Null|Null|Null||490..557|Inh|Null|Null|Null||
+EntRel||||||||||||||490..557||||||558..601||||||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||130..293|Inh|Null|Null|Null||601..762|Inh|Null|Null|Null||
+Explicit|691..693|Wr|Comm|Null|Null|||Expansion.Conjunction||||||618..690|Inh|Null|Null|Null||694..762|Inh|Null|Null|Null||
+EntRel||||||||||||||601..762||||||764..875||||||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||764..875|Inh|Null|Null|Null||877..1002|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||877..1002|Inh|Null|Null|Null||1004..1070|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jabaki|Comparison.Contrast.Juxtaposition||||||1020..1070|Inh|Null|Null|Null||1072..1117|Inh|Null|Null|Null||
+EntRel||||||||||||||1072..1118||||||1119..1180||||||
+Explicit|1181..1185|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1020..1179|Inh|Null|Null|Null||1186..1341|Inh|Null|Null|Null||
+EntRel||||||||||||||1186..1292||||||1293..1341||||||
+EntRel||||||||||||||1004..1341||||||1343..1418||||||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1343..1417|Inh|Null|Null|Null||1419..1520|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic contrast||||||1419..1520|Inh|Null|Null|Null||1522..1607|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic concession||||||1522..1606|Inh|Null|Null|Null||1608..1698|Inh|Null|Null|Null||
+Explicit|1665..1668|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1606..1664|Inh|Null|Null|Null||1669..1697|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||1608..1698|Inh|Null|Null|Null||1699..1761|Inh|Null|Null|Null||

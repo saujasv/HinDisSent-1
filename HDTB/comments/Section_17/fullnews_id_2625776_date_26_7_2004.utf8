@@ -1,0 +1,6 @@
+#Sun Apr 22 14:35:58 IST 2012
+Implicit||924..1131|1133..1260=Arg1 is the reason why Arg2
+Explicit|2114..2116|1958..2113|2117..2139=although'na wo.......aur na' could be a modifier paired connective that add some pragmatic sense to 'aur'
+Implicit||300..484|485..629=connective does not fit here, but this is specification, and other connective do not seem proper.
+AltLex|835..845|782..834|846..917=This is emphasis
+Implicit||2152..2338|2339..2485=Probably 'in rajyon mai' missing in Arg2. Adding that this will give reason sense with first sentence of Arg1

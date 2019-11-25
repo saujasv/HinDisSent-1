@@ -1,0 +1,8 @@
+#Sun Apr 22 12:57:12 IST 2012
+Explicit|1060..1063;1114..1116|1064..1113|1117..1151=Not a direct if-then relation, pragmatic sense in Arg2
+Explicit|2011..2026|1777..1880|2027..2165=This is again background information
+Implicit||1338..1487|1488..1549=This is background information
+Explicit|1550..1555|1488..1549|1556..1599=Arg1 is reason why Arg2
+Implicit||976..1152|1153..1254=This is Resonse to question in Arg1, but m,arked succession
+Implicit||182..317|464..522=Background information, otherwise Norel
+Implicit||1600..1772|1777..1880=This is 'gaur talab hai ki' with sense as background info connecting to 1st sentence if the text.

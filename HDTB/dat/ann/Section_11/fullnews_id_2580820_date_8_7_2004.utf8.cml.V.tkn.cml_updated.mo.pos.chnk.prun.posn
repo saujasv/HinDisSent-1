@@ -1,0 +1,13 @@
+EntRel||||||||||||||113..258||||||259..346||||||
+Explicit|347..350|Wr|Comm|Null|Null|||Expansion.Conjunction||||||274..346|Inh|Null|Null|Null||353..491|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस बारे में |Expansion.Conjunction||||||353..491|Inh|Null|Null|Null||492..732|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा |Expansion.Conjunction||||||603..665|Inh|Null|Null|Null||666..732|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही |Expansion.Conjunction||||||492..734|Inh|Null|Null|Null||735..842|Inh|Null|Null|Null||
+Explicit|912..918|Wr|Comm|Null|Null|||Temporal.Synchrony||||||869..911|Inh|Null|Null|Null||919..1033|Inh|Null|Null|Null||
+Explicit|981..985|Wr|Comm|Null|Null|||Contingency.Goal||||||919..980|Inh|Null|Null|Null||986..1033|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इस बारे में |Expansion.Conjunction||||||353..1033|Inh|Null|Null|Null||1034..1175|Inh|Null|Null|Null||
+Explicit|1147..1149|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1071..1146|Inh|Null|Null|Null||1150..1175|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके बाद |Expansion.Conjunction||||||1034..1175|Inh|Null|Null|Null||1176..1294|Inh|Null|Null|Null||
+Explicit|1300..1312|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||492..1294|Inh|Null|Null|Null||1313..1375|Inh|Null|Null|Null||
+Explicit|1318..1320;1342..1345;1343..1345|Wr|Comm|Null|Null|||Temporal.Synchrony||||||1313..1317;1321..1341|Inh|Null|Null|Null||1346..1375|Inh|Null|Null|Null||
+AltLex|1376..1391|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1313..1375|Inh|Null|Null|Null||1392..1524|Inh|Null|Null|Null||

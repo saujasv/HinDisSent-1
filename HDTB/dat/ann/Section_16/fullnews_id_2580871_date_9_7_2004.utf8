@@ -1,0 +1,21 @@
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||143..237|Inh|Null|Null|Null||239..395|Inh|Null|Null|Null||
+Explicit|453..459|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||397..452|Inh|Null|Null|Null||460..588|Inh|Null|Null|Null||
+Explicit|548..550|Wr|Comm|Null|Null|||Expansion.Conjunction||||||502..547|Inh|Null|Null|Null||551..588|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||460..588|Inh|Null|Null|Null||589..855|Inh|Null|Null|Null||
+Explicit|729..737|Wr|Comm|Null|Null|||Contingency.Pragmatic cause||||||605..727|Inh|Null|Null|Null||738..795|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ese|Expansion.Restatement.Generalization||||||729..795|Inh|Null|Null|Null||797..855|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||858..939|Inh|Null|Null|Null||941..1204|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||941..1076|Inh|Null|Null|Null||1078..1204|Inh|Null|Null|Null||
+Explicit|1134..1139|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1078..1132|Inh|Null|Null|Null||1140..1154|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1078..1154|Inh|Null|Null|Null||1156..1204|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||941..1204|Inh|Null|Null|Null||1207..1387|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||paraMwu|Comparison.Contrast.Opposition||||||1223..1328|Inh|Null|Null|Null||1330..1387|Inh|Null|Null|Null||
+EntRel||||||||||||||1521..1551||||||1587..1651||||||
+EntRel||||||||||||||1553..1585||||||1587..1651||||||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1749..1791|Inh|Null|Null|Null||1793..1823|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||1749..1791|Inh|Null|Null|Null||1825..1928|Inh|Null|Null|Null||
+Explicit|1865..1876|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1825..1864|Inh|Null|Null|Null||1877..1928|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora Age|Expansion.Conjunction||||||1733..1928|Inh|Null|Null|Null||1931..2144|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||1947..2002|Inh|Null|Null|Null||2004..2060|Inh|Null|Null|Null||
+Explicit|2062..2065;2119..2121|Wr|Comm|Null|Null|||Contingency.Condition.General||||||2066..2118|Inh|Null|Null|Null||2122..2144|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||2004..2060|Inh|Null|Null|Null||2062..2144|Inh|Null|Null|Null||

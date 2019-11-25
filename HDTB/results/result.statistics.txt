@@ -1,0 +1,333 @@
+Total Connective Frequency :
+Explicit Connectives	777
+Implicit Connectives	1218
+AltLex	41
+EntRel	218
+NoRel	15
+
+Sense Frequency :
+Comparison	5
+Comparison.Concession	4
+Comparison.Concession.Contra-expectation	84
+Comparison.Concession.Expectation	9
+Comparison.Contrast	7
+Comparison.Contrast.Juxtaposition	182
+Comparison.Contrast.Opposition	54
+Comparison.Pragmatic concession	46
+Comparison.Pragmatic contrast	81
+Contingency.Cause.Reason	148
+Contingency.Cause.Result	196
+Contingency.Condition	2
+Contingency.Condition.Factual	5
+Contingency.Condition.General	14
+Contingency.Condition.Hypothetical	12
+Contingency.Condition.Unreal	1
+Contingency.Condition.Unreal past	1
+Contingency.Goal	8
+Contingency.Pragmatic cause	78
+Contingency.Pragmatic condition	1
+Expansion	3
+Expansion.Alternative.Chosen alternative	10
+Expansion.Alternative.Conjunctive	2
+Expansion.Alternative.Disjunctive	5
+Expansion.Conjunction	670
+Expansion.Exception	8
+Expansion.Instantiation	37
+Expansion.Restatement	2
+Expansion.Restatement.Equivalence	16
+Expansion.Restatement.Generalization	37
+Expansion.Restatement.Specification	103
+Temporal.Asynchronous.Precedence	40
+Temporal.Asynchronous.Succession	112
+Temporal.Synchrony	52
+_Without_sense	234
+
+Explicit Connective Frequency :
+फिर भी	1
+इसके बाद ही	1
+भले..पर	1
+इसके बाद से	1
+यानी	4
+बहरहाल	7
+और बाद में	2
+एक तरफ..और दूसरी तरफ	1
+इसलिए	21
+इसके पूर्व	1
+इसतरह	1
+या तो..या	1
+इसी तरह से	1
+खासतौर पर	1
+इसके उलट	1
+साथ ही	19
+इसके अतिरिक्त	1
+इसकेलिए	1
+यानि	1
+इसी के चलते	1
+इस बीच	7
+फलतः	1
+इसके चलते	3
+इसपर	1
+इसी दिन	1
+और तभी	1
+अगर..तो	15
+जैसे ही	1
+इसके तहत	2
+इसके अलावा	22
+वहीं दूसरी ओर	1
+लेकिन	79
+जबकि	39
+वहीं पर	1
+दूसरी तरफ	2
+अलबत्ता	3
+हालांकि	22
+हालाँकि..लेकिन	1
+इसके साथ ही	7
+इसी लिए	2
+इस पर	5
+खासकर	4
+के बावजूद	1
+जब..तभी..भी	1
+बावजूद इसके	1
+व	2
+इसके पहले	1
+बाद में	5
+जब..तो	8
+इससे	8
+इसके मद्देनजर	1
+पहले	1
+उधर	26
+और उसके बाद	1
+पर	8
+की वजह से	4
+हालांकि..पर	1
+बेशक..लेकिन	1
+वहीं,	1
+इसके थोड़ी देर बाद	1
+जब..तब	5
+दरअसल	3
+जिससे कि	1
+उस पर	1
+न तो..और न ही	2
+से	1
+बल्कि	10
+इस दौरान	8
+यदि..तो	16
+इसी प्रकार	3
+इसी तरह	1
+जहां..वहीं	1
+इसका	1
+और	142
+के कारण	3
+के लिए	6
+केलिए	1
+लेनिक	1
+इस बीच,	4
+लिहाजा	4
+तो	10
+तथा	10
+यूं तो..लेकिन	1
+उसके बाद	2
+दूसरी ओर,	1
+इस घटना के बाद	1
+जिसकी वजह से	1
+तब	3
+या फिर	2
+के बाद	16
+वहीं..तो	1
+भले ही..पर	1
+हालांकि..लेकिन	4
+वहीं	14
+मसलन,	1
+ऐसे में	1
+उधर,	7
+लेकिन,	1
+आखिरकार	1
+इससे पहले भी	1
+जिसके चलते	2
+जब	1
+जिससे	5
+बहरहाल,	2
+अंततः	2
+भले ही..लेकिन	1
+इससे पहले	5
+बताया जाता है कि	1
+खासतौर से	1
+आगे	5
+इसके बाद	12
+इतना ही नहीं	1
+दूसरे	1
+जहाँ..वहीं	2
+नतीजतन	1
+हालाकि	1
+मगर	4
+उल्लेखनीय है कि	2
+इसी के बाद	2
+इससे पूर्व	1
+इसलिए..क्योंकि	1
+वैसे	1
+इस लिए	1
+तब..जब	3
+इसके लिए	2
+पहले..और बाद में	1
+तभी..जब	2
+चूंकि	1
+ताकि	9
+दूसरी ओर	12
+इस कारण	1
+तो..लेकिन	2
+क्योंकि	10
+यद्यपि.., पर..पर	1
+इधर	1
+गौरतलब है कि	11
+या	9
+इनके अलावा	1
+इस बारे में	1
+इस प्रकार	1
+जैसे ही..तो	1
+
+AltLex Connective Frequency :
+कहा जा रहा था कि	1
+शायद ही	1
+बताया जाता है कि	2
+इसी डर से	1
+मालूम हो कि	2
+वहां इस दौरान	1
+यह भी कहा जा रहा है कि	1
+यह प्रशन किए जाने पर कि	1
+उल्लेखनीय है कि	4
+इस खबर के बाद ही	1
+यह पूछे जाने पर कि	1
+यहां तक कि	4
+इसका उद्देश्य	1
+वजह	1
+भले ही बाद में	1
+इस संबंध में	1
+यही नहीं	2
+कुछ दिनों पहले ही	1
+समझा जाता है कि	1
+यही वजह है कि	2
+ऐसा किए जाने से	1
+गौरतलब है कि	8
+जी हां	1
+इस बात पर	1
+
+Implicit Connective Frequency :
+हालाँकि 	1
+जहां..वहीं		1
+लेकिन	1
+isake sAWa sAWa	4
+दूसरी तरफ	1
+jisase	4
+viSeRa rUpa se	10
+Ora Age	7
+गौरतलब है कि	1
+xasrasal	1
+इसके साथ 	1
+इस कारन 	1
+isa waraha se	6
+isa xOrAna	4
+फलत: 	1
+bAxa meM	4
+saMkRepa meM	9
+तथा 	7
+और 	6
+जबकि 	2
+साथ ही 	7
+waWA	80
+इससे लगता हैं	1
+jisake bAxa	5
+isake pahale	13
+isa vajaha se	1
+Ese hi	3
+isI bIca	1
+xarasal	38
+इसपर	1
+gaurWalab hE ki	2
+इससे पूर्व	2
+isake wahawa	1
+इसके अलावा 	6
+jEse ki	19
+isa bIca	3
+उसके बाद	1
+isaliye	48
+isIliye	24
+sAWa sAWa	7
+waba	5
+isake bAxa	25
+isake viruxXa	2
+जहां..वहीं	1
+लेकिन 	1
+इसके मद्देनजर	1
+तथा	6
+Ora	95
+क्योंकि 	2
+wo	1
+aMwa meM	1
+Age	26
+xara-asala	2
+Pala svarUpa	4
+viSeRakara	32
+ora	5
+isake awirikwa	11
+इस बारे में 	2
+जिसके बाद	1
+isa prakAra	15
+KAZsa wOra para	2
+उलेखनीय हैं की  	1
+उल्लेखनीय है कि		1
+isI prakAra	14
+isa waraha	2
+gOrawalaba hE ki	1
+खासकर	2
+jaba ki	4
+परन्तु 	1
+xUsare Sabxom meM	1
+lekina	33
+jabaki	24
+isa prakAra se	2
+और	2
+इस बारे में	5
+jisa vajaha se	2
+balki	2
+उल्लेखनीय है कि	3
+paraMwu	10
+sAWa hI	112
+क्योंकि	1
+इसके कारन 	1
+yAnI	1
+yaxyapi	2
+para	1
+eka ora..xUsarI ora	1
+व 	1
+xUsarI ora	46
+वहीं	6
+जिसके बाद 	1
+इसके अलावा	5
+वही	2
+viswAra meM	1
+xUsare SabxoM meM	4
+आगे 	1
+साथ ही	5
+इस दौरान	1
+isake alAvA	60
+isase pahale	5
+gOrwalaba he ki	1
+gortalab h ki	1
+इसके लिए	1
+इसके बाद 	2
+Ese	3
+kyoMki	166
+jEse	11
+xUsarI waraPZa	1
+hAlAzki	56
+Pira	2
+उधर	1
+इस कारण 	1
+isa liye	21
+इस पर	2
+इससे पहले	1
+agara..wo	1
+इसी प्रकार	1
+जिसके चलते	1
+evaM	2
+इसके साथ ही	1

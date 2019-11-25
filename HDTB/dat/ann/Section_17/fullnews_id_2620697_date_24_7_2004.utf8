@@ -1,0 +1,8 @@
+Explicit|262..268|Wr|Comm|Null|Null|||Expansion.Conjunction||||||131..261|Inh|Null|Null|Null||269..333|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||131..261|Inh|Null|Null|Null||333..432|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||333..431|Inh|Null|Null|Null||433..577|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||449..577|Inh|Null|Null|Null||578..640|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||578..641|Inh|Null|Null|Null||642..791|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||642..791|Inh|Null|Null|Null||793..852|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||809..852|Inh|Null|Null|Null||853..896|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||853..895|Inh|Null|Null|Null||897..934|Inh|Null|Null|Null||

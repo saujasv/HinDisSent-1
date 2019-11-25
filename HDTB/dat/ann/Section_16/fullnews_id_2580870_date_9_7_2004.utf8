@@ -1,0 +1,18 @@
+EntRel||||||||||||||156..258||||||260..315||||||
+Explicit|380..382|Wr|Comm|Null|Null|||Expansion.Conjunction||||||317..379|Inh|Null|Null|Null||383..445|Inh|Null|Null|Null||
+EntRel||||||||||||||260..315||||||383..445||||||
+Explicit|447..455|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||383..445|Inh|Null|Null|Null||457..619|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRa rUpa se|Expansion.Restatement.Specification||||||457..507|Inh|Null|Null|Null||509..619|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||509..619|Inh|Null|Null|Null||621..712|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake sAWa sAWa|Expansion.Conjunction||||||713..795|Inh|Null|Null|Null||797..873|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||797..873|Inh|Null|Null|Null||875..1017|Inh|Null|Null|Null||
+Explicit|965..971|Wr|Comm|Null|Null|||Expansion.Conjunction||||||875..963|Inh|Null|Null|Null||972..1017|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||797..873|Inh|Null|Null|Null||1019..1154|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||1019..1154|Inh|Null|Null|Null||1156..1404|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Instantiation||||||1184..1235|Inh|Null|Null|Null||1237..1307|Inh|Null|Null|Null||
+Explicit|1309..1314|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||1237..1307|Inh|Null|Null|Null||1315..1352|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1237..1352|Inh|Null|Null|Null||1354..1403|Inh|Null|Null|Null||
+Explicit|1406..1415|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||621..712|Inh|Null|Null|Null||1416..1524|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1450..1524|Inh|Null|Null|Null||1542..1651|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||balki|Expansion.Alternative.Chosen alternative||||||1542..1569|Inh|Null|Null|Null||1571..1613|Inh|Null|Null|Null||
+Explicit|1614..1616|Wr|Comm|Null|Null|||Contingency.Pragmatic cause||||||1617..1651|Inh|Null|Null|Null||1571..1613|Inh|Null|Null|Null||

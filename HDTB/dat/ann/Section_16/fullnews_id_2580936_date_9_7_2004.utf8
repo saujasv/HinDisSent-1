@@ -1,0 +1,8 @@
+EntRel||||||||||||||144..218||||||220..276||||||
+Explicit|277..279|Wr|Comm|Null|Null|||Expansion.Conjunction||||||220..276|Inh|Null|Null|Null||280..351|Inh|Null|Null|Null||
+EntRel||||||||||||||144..218||||||353..464||||||
+EntRel||||||||||||||353..464||||||466..649||||||
+EntRel||||||||||||||220..276||||||651..772||||||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||651..772|Inh|Null|Null|Null||774..849|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jEse ki|Expansion.Instantiation||||||774..849|Inh|Null|Null|Null||851..1121|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||851..968|Inh|Null|Null|Null||970..1121|Inh|Null|Null|Null||

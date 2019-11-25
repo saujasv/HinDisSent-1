@@ -1,0 +1,4 @@
+#Sat Mar 24 17:52:27 IST 2012
+Explicit|1126..1128|979..1124|1129..1195=Can be opposition , not sure if the value of the property (for comparison) has extreme value (ex. black/white , fast/slow)
+Implicit||2122..2156|2158..2245="hAM" is also helping in providing the sense for the relation.  
+EntRel||662..706|887..977=Arg2 has a VP co-ordination, but it is not handled because the case looks different than usual.

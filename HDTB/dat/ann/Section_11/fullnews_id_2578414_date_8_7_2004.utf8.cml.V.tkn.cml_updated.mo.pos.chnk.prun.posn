@@ -1,0 +1,13 @@
+Implicit||Wr|Comm|Null|Null||इस बारे में|Expansion.Conjunction||||||113..220|Inh|Null|Null|Null||223..325|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही|Expansion.Conjunction||||||223..325|Inh|Null|Null|Null||328..401|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||दूसरी तरफ|Expansion.Conjunction|Comparison.Contrast.Juxtaposition|||||328..401|Inh|Null|Null|Null||404..498|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही|Expansion.Conjunction||||||404..498|Inh|Null|Null|Null||501..544|Inh|Null|Null|Null||
+Explicit|552..564|Wr|Comm|Null|Null|||Expansion.Conjunction||||||113..546|Inh|Null|Null|Null||565..702|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा|Expansion.Conjunction||||||806..948|Inh|Null|Null|Null||951..992|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||वहीं|Expansion.Conjunction||||||806..992|Inh|Null|Null|Null||995..1082|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||उल्लेखनीय है कि|Expansion.Conjunction||||||995..1082|Inh|Null|Null|Null||1085..1180|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||उधर|Expansion.Conjunction||||||1085..1180|Inh|Null|Null|Null||1183..1387|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके साथ ही|Expansion.Conjunction||||||1183..1387|Inh|Null|Null|Null||1390..1491|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||वहीं|Expansion.Conjunction||||||1390..1491|Inh|Null|Null|Null||1494..1692|Inh|Null|Null|Null||
+Explicit|1710..1713;1740..1742|Wr|Comm|Null|Null|||Contingency.Condition.Hypothetical||||||1695..1709;1714..1739|Inh|Null|Null|Null||1743..1863|Inh|Null|Null|Null||
+Explicit|2006..2014|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1866..2005|Inh|Null|Null|Null||2017..2215|Inh|Null|Null|Null||

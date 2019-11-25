@@ -1,0 +1,16 @@
+Explicit|265..269|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||113..264|Inh|Null|Null|Null||270..307|Inh|Null|Null|Null||
+Explicit|308..312;367..369|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||313..366|Inh|Null|Null|Null||370..421|Inh|Null|Null|Null||
+EntRel||||||||||||||113..421||||||422..513||||||
+Implicit||Wr|Comm|Null|Null||इसके मद्देनजर|Contingency.Pragmatic cause||||||457..513|Inh|Null|Null|Null||514..618|Inh|Null|Null|Null||
+EntRel||||||||||||||422..618||||||619..787||||||
+Implicit||Wr|Comm|Null|Null||लेकिन|Comparison.Pragmatic contrast||||||788..1037|Inh|Null|Null|Null||1038..1197|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||जबकि |Comparison.Concession.Expectation||||||1038..1197|Inh|Null|Null|Null||1198..1268|Inh|Null|Null|Null||
+Explicit|1269..1272;1307..1309|Wr|Comm|Null|Null|||Expansion.Instantiation||||||1273..1306|Inh|Null|Null|Null||1310..1402|Inh|Null|Null|Null||
+Explicit|1350..1354|Wr|Comm|Null|Null|||Comparison.Contrast.Opposition||||||1269..1349|Inh|Null|Null|Null||1355..1402|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||उलेखनीय हैं की  |Expansion.Restatement.Specification||||||1269..1402|Inh|Null|Null|Null||1403..1768|Inh|Null|Null|Null||
+Explicit|1471..1475|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1403..1470|Inh|Null|Null|Null||1476..1545|Inh|Null|Null|Null||
+Explicit|1546..1550|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1403..1545|Inh|Null|Null|Null||1551..1680|Inh|Null|Null|Null||
+Explicit|1681..1685|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1551..1680|Inh|Null|Null|Null||1688..1768|Inh|Null|Null|Null||
+Explicit|1876..1881|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1769..1875|Inh|Null|Null|Null||1882..1971|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसी प्रकार|Expansion.Instantiation||||||1769..1971|Inh|Null|Null|Null||1972..2109|Inh|Null|Null|Null||
+Explicit|2035..2039|Wr|Comm|Null|Null|||Comparison.Concession.Expectation||||||1972..2034|Inh|Null|Null|Null||2040..2109|Inh|Null|Null|Null||

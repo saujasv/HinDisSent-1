@@ -1,0 +1,5 @@
+#Fri Apr 20 17:22:34 IST 2012
+Explicit|3456..3461|3400..3455|3462..3518=Response to a question, but annotated as 'a result of' 
+Implicit||135..260|261..432='jese ki' dpesn't seem to be good, but this is specification
+Implicit||2233..2306|2308..2391=Arg1 is the reason why Arg2
+Implicit||3271..3399|3400..3455=seems to be pragmatic result

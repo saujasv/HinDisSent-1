@@ -1,0 +1,18 @@
+EntRel||||||||||||||113..186||||||187..295||||||
+Explicit|249..254|Wr|Comm|Null|Null|||Expansion.Alternative.Chosen alternative||||||187..243|Inh|Null|Null|Null||255..295|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||187..295|Inh|Null|Null|Null||296..346|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||296..346|Inh|Null|Null|Null||347..447|Inh|Null|Null|Null||
+Explicit|448..454|Wr|Comm|Null|Null|||Comparison.Pragmatic concession||||||347..447|Inh|Null|Null|Null||455..602|Inh|Null|Null|Null||
+EntRel||||||||||||||113..602||||||603..655||||||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Conjunction||||||603..655|Inh|Null|Null|Null||656..785|Inh|Null|Null|Null||
+Explicit|672..675;711..713|Wr|Comm|Null|Null|||Contingency.Condition.Hypothetical||||||656..671;676..710|Inh|Null|Null|Null||714..785|Inh|Null|Null|Null||
+Explicit|741..743|Wr|Comm|Null|Null|||Expansion.Conjunction||||||672..740|Inh|Null|Null|Null||744..785|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa sAWa|Expansion.Conjunction||||||656..785|Inh|Null|Null|Null||786..949|Inh|Null|Null|Null||
+Explicit|850..852|Wr|Comm|Null|Null|||Expansion.Conjunction||||||801..849|Inh|Null|Null|Null||853..949|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||786..949|Inh|Null|Null|Null||950..1045|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison||||||950..1045|Inh|Null|Null|Null||1046..1175|Inh|Null|Null|Null||
+Explicit|1178..1183|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1046..1175|Inh|Null|Null|Null||1184..1230|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||950..1230|Inh|Null|Null|Null||1229..1363|Inh|Null|Null|Null||
+AltLex|1364..1371|Wr|Comm|Null|Null|||Expansion.Restatement.Equivalence||||||1231..1363|Inh|Null|Null|Null||1372..1428|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa sAWa|Expansion.Conjunction||||||1364..1428|Inh|Null|Null|Null||1429..1534|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Pragmatic concession||||||1429..1534|Inh|Null|Null|Null||1535..1602|Inh|Null|Null|Null||

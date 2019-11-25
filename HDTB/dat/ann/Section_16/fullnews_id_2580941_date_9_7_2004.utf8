@@ -1,0 +1,17 @@
+EntRel||||||||||||||130..271||||||273..360||||||
+Implicit||Wr|Comm|Null|Null||isake bAxa|Temporal.Asynchronous.Succession||||||273..360|Inh|Null|Null|Null||362..429|Inh|Null|Null|Null||
+EntRel||||||||||||||362..429||||||430..591||||||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||430..591|Inh|Null|Null|Null||593..701|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||593..701|Inh|Null|Null|Null||703..789|Inh|Null|Null|Null||
+EntRel||||||||||||||719..789||||||791..918||||||
+Explicit|844..850|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||791..842|Inh|Null|Null|Null||851..918|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ese hi|Expansion.Restatement.Equivalence||||||362..429|Inh|Null|Null|Null||938..1076|Inh|Null|Null|Null||
+Explicit|988..994|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||938..987|Inh|Null|Null|Null||995..1076|Inh|Null|Null|Null||
+EntRel||||||||||||||938..1076||||||1096..1210||||||
+AltLex|1212..1227|Wr|Comm|Null|Null|||Expansion||||||851..918|Inh|Null|Null|Null||1228..1555|Inh|Null|Null|Null||
+Explicit|1308..1310|Wr|Comm|Null|Null|||Temporal.Synchrony||||||1228..1306|Inh|Null|Null|Null||1311..1362|Inh|Null|Null|Null||
+Explicit|1364..1371|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||1311..1362|Inh|Null|Null|Null||1372..1476|Inh|Null|Null|Null||
+Explicit|1431..1433|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1372..1430|Inh|Null|Null|Null||1434..1476|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||paraMwu|Comparison.Concession.Contra-expectation||||||1434..1476|Inh|Null|Null|Null||1478..1555|Inh|Null|Null|Null||
+Explicit|1515..1517|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1478..1514|Inh|Null|Null|Null||1518..1555|Inh|Null|Null|Null||
+EntRel||||||||||||||938..1076||||||1557..1702||||||

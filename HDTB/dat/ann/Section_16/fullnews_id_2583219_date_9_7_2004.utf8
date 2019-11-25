@@ -1,0 +1,12 @@
+Explicit|203..209|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||112..202|Inh|Null|Null|Null||211..232|Inh|Null|Null|Null||
+EntRel||||||||||||||112..232||||||234..277||||||
+Implicit||Wr|Comm|Null|Null||evaM|Expansion.Conjunction||||||234..277|Inh|Null|Null|Null||279..310|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||yaxyapi|Comparison.Concession.Expectation||||||112..232|Inh|Null|Null|Null||312..361|Inh|Null|Null|Null||
+EntRel||||||||||||||312..361||||||363..423||||||
+EntRel||||||||||||||234..277||||||425..483||||||
+EntRel||||||||||||||363..423||||||425..483||||||
+EntRel||||||||||||||363..423||||||485..534||||||
+Implicit||Wr|Comm|Null|Null||paraMwu|Comparison.Contrast.Opposition||||||485..534|Inh|Null|Null|Null||536..586|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||536..586|Inh|Null|Null|Null||588..631|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||588..631|Inh|Null|Null|Null||709..823|Inh|Null|Null|Null||
+Explicit|770..777|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||709..768|Inh|Null|Null|Null||778..823|Inh|Null|Null|Null||

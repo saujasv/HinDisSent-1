@@ -1,0 +1,10 @@
+Explicit|220..223|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||121..218|Inh|Null|Null|Null||225..322|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||252..282|Inh|Null|Null|Null||284..322|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||121..219|Inh|Null|Null|Null||322..477|Inh|Null|Null|Null||
+Explicit|443..447|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||369..442|Inh|Null|Null|Null||448..477|Inh|Null|Null|Null||
+EntRel||||||||||||||369..477||||||478..517||||||
+Implicit||Wr|Comm|Null|Null||xUsarI ora|Comparison.Contrast.Juxtaposition||||||322..517|Inh|Null|Null|Null||518..656|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||533..656|Inh|Null|Null|Null||657..749|Inh|Null|Null|Null||
+Explicit|750..753|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||518..748|Inh|Null|Null|Null||753..828|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||783..828|Inh|Null|Null|Null||829..892|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isI prakAra|Expansion.Restatement.Generalization||||||829..893|Inh|Null|Null|Null||894..922|Inh|Null|Null|Null||

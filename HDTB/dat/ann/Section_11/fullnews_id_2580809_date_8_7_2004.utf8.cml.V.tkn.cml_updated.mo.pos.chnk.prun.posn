@@ -1,0 +1,11 @@
+EntRel||||||||||||||113..236||||||237..331||||||
+Implicit||Wr|Comm|Null|Null||hAlAzki|Comparison.Contrast.Juxtaposition||||||113..270|Inh|Null|Null|Null||271..331|Inh|Null|Null|Null||
+Explicit|332..335|Wr|Comm|Null|Null|||Comparison.Contrast||||||113..331|Inh|Null|Null|Null||338..458|Inh|Null|Null|Null||
+EntRel||||||||||||||338..458||||||459..578||||||
+EntRel||||||||||||||113..578||||||579..775||||||
+Implicit||Wr|Comm|Null|Null||isase pahale|Temporal.Asynchronous.Precedence||||||577..775|Inh|Null|Null|Null||776..855|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Temporal.Asynchronous.Succession||||||776..855|Inh|Null|Null|Null||856..918|Inh|Null|Null|Null||
+EntRel||||||||||||||579..918||||||919..965||||||
+Implicit||Wr|Comm|Null|Null||jabaki|Comparison.Contrast.Juxtaposition||||||919..965|Inh|Null|Null|Null||966..1030|Inh|Null|Null|Null||
+EntRel||||||||||||||579..1030||||||1031..1172||||||
+Explicit|1173..1176|Wr|Comm|Null|Null|||Comparison.Contrast||||||579..1172|Inh|Null|Null|Null||1179..1357|Inh|Null|Null|Null||

@@ -1,0 +1,14 @@
+EntRel||||||||||||||113..270||||||271..367||||||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||271..367|Inh|Null|Null|Null||368..521|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||368..521|Inh|Null|Null|Null||522..587|Inh|Null|Null|Null||
+Explicit|565..567|Wr|Comm|Null|Null|||Expansion.Conjunction||||||522..564|Inh|Null|Null|Null||568..587|Inh|Null|Null|Null||
+Explicit|593..605|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||538..587|Inh|Null|Null|Null||606..649|Inh|Null|Null|Null||
+EntRel||||||||||||||606..649||||||650..737||||||
+Explicit|704..706|Wr|Comm|Null|Null|||Expansion.Conjunction||||||650..703|Inh|Null|Null|Null||707..737|Inh|Null|Null|Null||
+EntRel||||||||||||||606..737||||||738..832||||||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||738..832|Inh|Null|Null|Null||833..946|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||833..946|Inh|Null|Null|Null||947..1030|Inh|Null|Null|Null||
+Explicit|991..993|Wr|Comm|Null|Null|||Expansion.Conjunction||||||947..990|Inh|Null|Null|Null||994..1030|Inh|Null|Null|Null||
+Explicit|1031..1034|Wr|Comm|Null|Null|||Comparison.Contrast||||||606..1030|Inh|Null|Null|Null||1037..1142|Inh|Null|Null|Null||
+EntRel||||||||||||||1037..1142||||||1143..1194||||||
+Implicit||Wr|Comm|Null|Null||isa xOrAna|Temporal.Synchrony||||||1143..1194|Inh|Null|Null|Null||1195..1293|Inh|Null|Null|Null||

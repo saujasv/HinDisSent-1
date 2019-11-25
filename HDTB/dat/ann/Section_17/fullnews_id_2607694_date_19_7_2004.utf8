@@ -1,0 +1,7 @@
+Explicit|199..201|Wr|Comm|Null|Null|||Expansion.Conjunction||||||130..197|Inh|Null|Null|Null||202..264|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||130..198|Inh|Null|Null|Null||264..415|Inh|Null|Null|Null||
+EntRel||||||||||||||264..414||||||416..502||||||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||324..415|Inh|Null|Null|Null||520..592|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isaliye|Contingency.Cause.Result||||||520..591|Inh|Null|Null|Null||593..660|Inh|Null|Null|Null||
+Explicit|662..673|Wr|Comm|Null|Null|||Expansion.Conjunction||||||593..661|Inh|Null|Null|Null||674..710|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Contrast.Juxtaposition||||||593..661|Inh|Null|Null|Null||711..760|Inh|Null|Null|Null||

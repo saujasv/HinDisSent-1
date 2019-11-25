@@ -1,0 +1,11 @@
+Implicit||Wr|Comm|Null|Null||साथ ही|Expansion.Conjunction||||||113..250|Inh|Null|Null|Null||253..363|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और|Expansion.Conjunction||||||436..513|Inh|Null|Null|Null||516..592|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||तथा |Expansion.Conjunction||||||516..592|Inh|Null|Null|Null||595..666|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||वहीं|Expansion.Conjunction||||||516..666|Inh|Null|Null|Null||669..746|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||साथ ही |Expansion.Conjunction||||||366..746|Inh|Null|Null|Null||749..933|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||इसके अलावा |Expansion.Conjunction||||||749..935|Inh|Null|Null|Null||936..1061|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और |Expansion.Conjunction||||||936..1061|Inh|Null|Null|Null||1062..1124|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||जहां..वहीं	|Comparison.Contrast.Juxtaposition||||||1062..1122|Inh|Null|Null|Null||1125..1244|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||और |Expansion.Conjunction|Temporal.Asynchronous.Succession|||||1247..1375|Inh|Null|Null|Null||1376..1462|Inh|Null|Null|Null||
+Explicit|1463..1474|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1376..1462|Inh|Null|Null|Null||1475..1561|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||क्योंकि |Contingency.Cause.Reason||||||1463..1561|Inh|Null|Null|Null||1562..1654|Inh|Null|Null|Null||

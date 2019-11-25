@@ -1,0 +1,6 @@
+Explicit|262..269|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||138..261|Inh|Null|Null|Null||270..324|Inh|Null|Null|Null||
+EntRel||||||||||||||138..324||||||325..413||||||
+Implicit||Wr|Comm|Null|Null||xarasal|Expansion.Restatement.Specification||||||325..414|Inh|Null|Null|Null||414..588|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jisake bAxa|Temporal.Asynchronous.Succession||||||414..588|Inh|Null|Null|Null||590..677|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isa liye|Contingency.Cause.Result||||||590..676|Inh|Null|Null|Null||678..781|Inh|Null|Null|Null||
+Explicit|783..790|Wr|Comm|Null|Null|||Comparison.Pragmatic contrast||||||678..782|Inh|Null|Null|Null||791..914|Inh|Null|Null|Null||

@@ -1,0 +1,16 @@
+Explicit|283..292|Wr|Comm|Null|Null|||Comparison.Concession.Expectation||||||293..334|Inh|Null|Null|Null||233..282|Inh|Null|Null|Null||
+Explicit|336..346|Wr|Comm|Null|Null|||Expansion.Conjunction||||||196..334|Inh|Null|Null|Null||347..498|Inh|Null|Null|Null||
+Explicit|422..427|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation|Expansion.Exception|||||363..421|Inh|Null|Null|Null||428..498|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||xUsare SabxoM meM|Expansion.Restatement.Equivalence||||||347..498|Inh|Null|Null|Null||499..642|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Age|Expansion.Conjunction||||||347..498|Inh|Null|Null|Null||644..715|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||644..715|Inh|Null|Null|Null||717..802|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa sAWa|Expansion.Conjunction||||||717..802|Inh|Null|Null|Null||804..976|Inh|Null|Null|Null||
+Explicit|928..930|Wr|Comm|Null|Null|||Expansion.Conjunction||||||887..927|Inh|Null|Null|Null||931..976|Inh|Null|Null|Null||
+Explicit|979..989|Wr|Comm|Null|Null|||Expansion.Conjunction||||||804..976|Inh|Null|Null|Null||991..1138|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||saMkRepa meM|Expansion.Restatement||||||1011..1138|Inh|Null|Null|Null||1140..1190|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isase pahale|Temporal.Asynchronous.Precedence||||||1140..1190|Inh|Null|Null|Null||1192..1223|Inh|Null|Null|Null||
+EntRel||||||||||||||991..1223||||||1226..1303||||||
+Implicit||Wr|Comm|Null|Null||gOrawalaba hE ki|Comparison.Contrast.Opposition||||||1226..1303|Inh|Null|Null|Null||1305..1437|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||lekina|Comparison.Pragmatic contrast||||||1440..1586|Inh|Null|Null|Null||1588..1688|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||sAWa sAWa|Expansion.Conjunction||||||1588..1688|Inh|Null|Null|Null||1690..1799|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Cause.Reason||||||1745..1768|Inh|Null|Null|Null||1770..1799|Inh|Null|Null|Null||

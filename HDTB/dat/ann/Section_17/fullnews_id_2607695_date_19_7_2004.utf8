@@ -1,0 +1,15 @@
+Implicit||Wr|Comm|Null|Null||kyoMki|Contingency.Pragmatic cause||||||161..407|Inh|Null|Null|Null||409..758|Inh|Null|Null|Null||
+Explicit|460..463;514..516|Wr|Comm|Null|Null|||Contingency.Condition.General||||||464..512|Inh|Null|Null|Null||517..585|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isI prakAra|Expansion.Restatement.Generalization||||||409..585|Inh|Null|Null|Null||585..758|Inh|Null|Null|Null||
+Explicit|701..703|Wr|Comm|Null|Null|||Expansion.Conjunction||||||643..700|Inh|Null|Null|Null||704..758|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||viSeRakara|Expansion.Restatement.Specification||||||585..758|Inh|Null|Null|Null||759..890|Inh|Null|Null|Null||
+Explicit|891..902|Wr|Comm|Null|Null|||Expansion.Conjunction||||||795..890|Inh|Null|Null|Null||903..967|Inh|Null|Null|Null||
+Explicit|968..980|Wr|Comm|Null|Null|||Expansion.Restatement.Specification||||||759..890|Inh|Null|Null|Null||981..1105|Inh|Null|Null|Null||
+Explicit|1107..1118|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||981..1106|Inh|Null|Null|Null||1119..1172|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isIliye|Contingency.Cause.Result||||||1174..1351|Inh|Null|Null|Null||1352..1545|Inh|Null|Null|Null||
+Explicit|1368..1371;1439..1441|Wr|Comm|Null|Null|||Contingency.Condition.Hypothetical||||||1372..1438|Inh|Null|Null|Null||1442..1544|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||jaba ki|Comparison.Contrast.Juxtaposition||||||1442..1545|Inh|Null|Null|Null||1546..1629|Inh|Null|Null|Null||
+Explicit|1630..1642|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1174..1629|Inh|Null|Null|Null||1643..1824|Inh|Null|Null|Null||
+Explicit|1704..1710|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1711..1824|Inh|Null|Null|Null||1643..1703|Inh|Null|Null|Null||
+Explicit|1825..1836|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1643..1824|Inh|Null|Null|Null||1837..1891|Inh|Null|Null|Null||
+Explicit|1893..1900|Wr|Comm|Null|Null|||Comparison.Concession.Contra-expectation||||||1837..1891|Inh|Null|Null|Null||1901..2070|Inh|Null|Null|Null||

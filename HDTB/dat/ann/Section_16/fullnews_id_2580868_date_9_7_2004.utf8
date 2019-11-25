@@ -1,0 +1,18 @@
+EntRel||||||||||||||172..330||||||332..413||||||
+Implicit||Wr|Comm|Null|Null||sAWa hI|Expansion.Conjunction||||||332..413|Inh|Null|Null|Null||415..469|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||172..330|Inh|Null|Null|Null||470..549|Inh|Null|Null|Null||
+Explicit|551..557|Wr|Comm|Null|Null|||Expansion.Conjunction||||||470..549|Inh|Null|Null|Null||558..705|Inh|Null|Null|Null||
+EntRel||||||||||||||707..804||||||806..908||||||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||558..705|Inh|Null|Null|Null||910..1101|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||waWA|Expansion.Conjunction||||||982..1041|Inh|Null|Null|Null||1043..1101|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake sAWa sAWa|Expansion.Conjunction||||||910..1101|Inh|Null|Null|Null||1103..1182|Inh|Null|Null|Null||
+EntRel||||||||||||||1103..1182||||||1184..1238||||||
+EntRel||||||||||||||1103..1182||||||1240..1335||||||
+EntRel||||||||||||||1184..1238||||||1337..1410||||||
+Implicit||Wr|Comm|Null|Null||isake alAvA|Expansion.Conjunction||||||1103..1182|Inh|Null|Null|Null||1412..1484|Inh|Null|Null|Null||
+EntRel||||||||||||||1412..1484||||||1486..1534||||||
+Implicit||Wr|Comm|Null|Null||Ora|Expansion.Conjunction||||||1412..1484|Inh|Null|Null|Null||1536..1660|Inh|Null|Null|Null||
+Implicit||Wr|Comm|Null|Null||isake awirikwa|Expansion.Conjunction||||||1536..1660|Inh|Null|Null|Null||1662..1759|Inh|Null|Null|Null||
+EntRel||||||||||||||1662..1759||||||1761..1813||||||
+Implicit||Wr|Comm|Null|Null||Ora Age|Expansion.Conjunction||||||1662..1759|Inh|Null|Null|Null||1815..1873|Inh|Null|Null|Null||
+Explicit|1874..1878|Wr|Comm|Null|Null|||Comparison.Contrast.Juxtaposition||||||1815..1873|Inh|Null|Null|Null||1879..1992|Inh|Null|Null|Null||
