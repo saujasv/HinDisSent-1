@@ -153,24 +153,24 @@ def processAnnFile( relationList , connTypeCounts , explicitConnDict, implicitCo
     return [relationList, connTypeCounts, [explicitConnDict , implicitConnDict , altlexConnDict] , senseDict, connSenseIndex]
 
 if __name__ == '__main__' :
-
+    CONNS = list()
     # Specify the input directory as first argument
     dataPath = sys.argv[1]
     annPath = os.path.join(sys.argv[1],'ann')
     rawPath = os.path.join(sys.argv[1],'raw')
 
     # Specify the outputFile-prefix as second argument
-    outPath = sys.argv[2]
-    outFile = outPath + '.statistics.txt'
-    outRelationFile = outPath + '.relationList.txt'
-    adjRelationFile = outPath + '.adjRelationList.txt'
+#     outPath = sys.argv[2]
+#     outFile = outPath + '.statistics.txt'
+#     outRelationFile = outPath + '.relationList.txt'
+#     adjRelationFile = outPath + '.adjRelationList.txt'
 
     annFileDict = fw.fileListToFileNameDict(fw.folderWalk(annPath))
     rawFileDict = fw.fileListToFileNameDict(fw.folderWalk(rawPath))
 
-    outFD=codecs.open(outFile,'w',encoding='utf-8')
-    outRelationFD = codecs.open(outRelationFile,'w',encoding='utf-8')
-    adjRelationFD = codecs.open(adjRelationFile,'w',encoding='utf-8')
+    # outFD=codecs.open(outFile,'w',encoding='utf-8')
+    # outRelationFD = codecs.open(outRelationFile,'w',encoding='utf-8')
+    # adjRelationFD = codecs.open(adjRelationFile,'w',encoding='utf-8')
 
     
     connTypeCounts = {'Explicit':0 , 'Implicit':0 ,'AltLex':0 , 'EntRel':0 , 'NoRel':0}
@@ -184,27 +184,34 @@ if __name__ == '__main__' :
     for inpFile in annFileDict.keys() :
         annFD = open(annFileDict[inpFile],'r')
         rawFD = codecs.open(rawFileDict[inpFile],'rb',encoding='utf-8')
-        outRelationFD.write(annFD.name + '\n')
+        # outRelationFD.write(annFD.name + '\n')
         [relationList , connTypeCounts, [explicitConnDict , implicitConnDict , altlexConnDict] , senseDict, connSenseIndex ] = processAnnFile( relationList , connTypeCounts , explicitConnDict, implicitConnDict , altlexConnDict, senseDict , connSenseIndex ,annFD , rawFD)
         annFD.close()
+    
+    G = list()
+    for dr in relationList:
+        if dr.relationType == 'Explicit' and dr.conn in CONNS:
+            G.append((dr.arg1Sentence, dr.arg2Sentence, dr.conn))
+
+
 
     # Producing the statistics File 
 
-    outFD.write('Total Connective Frequency :\n')
-    outFD.write( 'Explicit Connectives\t%d\nImplicit Connectives\t%d\nAltLex\t%d\nEntRel\t%d\nNoRel\t%d\n\n' % (connTypeCounts['Explicit'] , connTypeCounts['Implicit'] , connTypeCounts['AltLex'] , connTypeCounts['EntRel'] , connTypeCounts['NoRel']))
-    outFD.write('Sense Frequency :\n')
-    senseList = sorted(senseDict.items() , key=itemgetter(0))
-    outFD.write('\n'.join(x[0] + '\t' + str(x[1]) for x in senseList) + '\n')
-    outFD.write('\nExplicit Connective Frequency :\n')
+#     outFD.write('Total Connective Frequency :\n')
+#     outFD.write( 'Explicit Connectives\t%d\nImplicit Connectives\t%d\nAltLex\t%d\nEntRel\t%d\nNoRel\t%d\n\n' % (connTypeCounts['Explicit'] , connTypeCounts['Implicit'] , connTypeCounts['AltLex'] , connTypeCounts['EntRel'] , connTypeCounts['NoRel']))
+#     outFD.write('Sense Frequency :\n')
+#     senseList = sorted(senseDict.items() , key=itemgetter(0))
+#     outFD.write('\n'.join(x[0] + '\t' + str(x[1]) for x in senseList) + '\n')
+#     outFD.write('\nExplicit Connective Frequency :\n')
 
-    for conn in explicitConnDict.keys() :
-            outFD.write(conn + '\t' + str(explicitConnDict[conn]) + '\n')
-    outFD.write('\nAltLex Connective Frequency :\n')
-    for conn in altlexConnDict.keys() :
-            outFD.write(conn + '\t' + str(altlexConnDict[conn]) + '\n')
-    outFD.write('\nImplicit Connective Frequency :\n')
-    for conn in implicitConnDict.keys() :
-            outFD.write(conn + '\t' + str(implicitConnDict[conn]) + '\n')
+#     for conn in explicitConnDict.keys() :
+#             outFD.write(conn + '\t' + str(explicitConnDict[conn]) + '\n')
+#     outFD.write('\nAltLex Connective Frequency :\n')
+#     for conn in altlexConnDict.keys() :
+#             outFD.write(conn + '\t' + str(altlexConnDict[conn]) + '\n')
+#     outFD.write('\nImplicit Connective Frequency :\n')
+#     for conn in implicitConnDict.keys() :
+#             outFD.write(conn + '\t' + str(implicitConnDict[conn]) + '\n')
 
     # Producing the Connective-Sense Mapping Statistics File
 
@@ -215,3 +222,23 @@ if __name__ == '__main__' :
     #         senses = sorted(conn[1].items() , key=itemgetter(0) , reverse=True)
     #         connSenseFD.write('Connective : ' + connective + '\n' + 'Types of Sense : ' + str(len(senses)) + '\n' + '\n'.join(('Sense : ' + x[0] + ' - ' + str(x[1])) for x in senses) + '\n\n')
     
+    import editdistance
+
+    S = list()
+
+    for conn in CONNS:
+        total = 0
+        count = 0
+        for s1, s2, sc in S:
+            if sc != conn:
+                continue
+            for g1, g2, gc in G:
+                if gc != conn:
+                    continue
+                d1 = editdistance.eval(s1, g1) / max(len(s1), len(g1))
+                d2 = editdistance.eval(s2, g2) / max(len(s2), len(g2))
+                if min(d1, d2) < 0.7:
+                    total += d1 + d2 
+                    count += 1
+    
+        print("Average extraction error for " + conn + "=", total / count)
